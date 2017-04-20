@@ -1,0 +1,1167 @@
+<!doctype html>
+<html>
+ <head> 
+  <title>deadsoul vesnice (581|437) - Divoké Kmeny - Svìt 48</title> 
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+  <link id="favicon" rel="shortcut icon" href="/favicon.ico"> 
+  <link rel="stylesheet" type="text/css" href="https://dscs.innogamescdn.com/assets/cs48/167260909b8e35c886e8ea38a9f25e07/merged/game.css"> 
+  <link rel="stylesheet" type="text/css" href="https://dscs.innogamescdn.com/assets/cs48/2bce2c5f462059ce6f485030e5b21cfd/css/game/overview.css"> 
+  <script type="text/javascript" src="https://dscs.innogamescdn.com/assets/cs48/3b4da30543b208b023f8725f85f53f05/merged/game.js"></script> 
+  <script type="text/javascript" src="https://dscs.innogamescdn.com/assets/cs48/cd6f538d17e6270e0205ddbbb9e6ec53/js/game/VillageOverview.js"></script> 
+  <script type="text/javascript">
+        //<![CDATA[
+        var sds = false;
+		var image_base = "https://dscs.innogamescdn.com/8.53/30460/graphic/";
+		var mobile = false;
+		var mobile_on_normal = false;
+        var mobiledevice = false;
+		var premium = false;
+		var server_utc_diff = 7200;
+
+		TribalWars.updateGameData({"player":{"id":"3929133","name":"deadsoul","ally":"1230","sitter":"0","sleep_start":"0","sitter_type":"normal","sleep_end":"0","sleep_last":"0","interstitial":"0","email_valid":"1","villages":"1","incomings":"0","supports":0,"knight_location":"12563","knight_unit":"1386009741","rank":4880,"points":"335","date_started":"1472554115","is_guest":"0","birthdate":"0000-00-00","quest_progress":"0","premium":false,"account_manager":false,"farm_manager":true,"points_formatted":"335","rank_formatted":"4<span class=\"grey\">.<\/span>880","pp":"0","new_ally_application":"0","new_ally_invite":"0","new_buddy_request":"0","new_daily_bonus":"0","new_forum_post":"0","new_igm":"0","new_items":"0","new_report":"0","fire_pixel":"0","new_quest":"1"},"village":{"id":12563,"name":"deadsoul vesnice","wood_prod":0.063578728501773,"stone_prod":0.063578728501773,"iron_prod":0.034738948355729,"storage_max":2810,"pop_max":452,"wood_float":432.82456882545,"stone_float":559.82456882545,"iron_float":973.27528669948,"wood":433,"stone":560,"iron":973,"pop":310,"x":581,"y":437,"trader_away":0,"bonus_id":null,"bonus":{"wood":1.07,"stone":1.07,"iron":1.07},"buildings":{"village":"12563","main":"7","farm":"5","storage":"6","place":"1","barracks":"5","church":"0","church_f":"0","smith":"5","wood":"14","stone":"14","iron":"10","market":"1","stable":"0","wall":"1","garage":"0","hide":"3","snob":"0","statue":"1","watchtower":"0"},"player_id":"3929133","modifications":0,"last_res_tick":1472906663039,"res":[433,0.063578728501773,560,0.063578728501773,973,0.034738948355729,2810,310,452],"coord":"581|437","is_farm_upgradable":true},"nav":{"parent":1},"link_base":"\/game.php?village=12563&amp;screen=","link_base_pure":"\/game.php?village=12563&screen=","csrf":"d56b2cee","world":"cs48","market":"cz","RTL":false,"version":"30460 8.53","majorVersion":"8.53","screen":"overview","mode":null,"device":"desktop","pregame":false,"time_generated":1472906663039});
+		var csrf_token = 'd56b2cee';
+			
+		UI.AutoComplete.url = '/game.php?village=12563&screen=api&ajaxaction=autocomplete&&h=d56b2cee';
+		ScriptAPI.url = '/game.php?village=12563&screen=api&ajax=save_script&';
+		ScriptAPI.version = parseFloat(game_data.majorVersion);
+
+		
+		var userCSS = false;
+		
+		var isIE7 = false;
+
+		var topmenuIsAlwaysVisible = false;
+					topmenuIsAlwaysVisible = true;
+		
+				VillageContext._urls.overview = '/game.php?village=12563&screen=overview&village=__village__&';
+		VillageContext._urls.info = '/game.php?village=12563&screen=info_village&id=__village__&';
+		VillageContext._urls.fav = '/game.php?village=12563&screen=info_village&id=__village__&ajaxaction=add_target&json=1&&h=d56b2cee';
+		VillageContext._urls.unfav = '/game.php?village=12563&screen=info_village&id=__village__&ajaxaction=del_target&json=1&&h=d56b2cee';
+		VillageContext._urls.claim = '/game.php?village=12563&screen=info_village&id=__village__&ajaxaction=toggle_reserve_village&json=1&&h=d56b2cee';
+		VillageContext._urls.market = '/game.php?village=12563&screen=market&mode=send&target=__village__&';
+		VillageContext._urls.place = '/game.php?village=12563&screen=place&target=__village__&';
+		VillageContext._urls.recruit = '/game.php?village=12563&screen=train&village=__village__&';
+		VillageContext._urls.map = '/game.php?village=12563&screen=map&beacon=1&id=__village__&';
+		VillageContext._urls.unclaim = VillageContext._urls.claim;
+        VillageContext.claim_enabled = true;
+        VillageContext.igm_enabled = true;
+        VillageContext.send_troops_enabled = true;
+        VillageContext.send_attack_disabled = false;
+				
+
+		
+		TribalWars._settings = {"sound":0,"map_casual_hide":1,"map_show_watchtower":0,"bn_attack":1,"bn_warehouse":1,"bn_mail":1,"bn_building":1,"bn_suppress_prompt":1,"inline_notification_building":1,"chat_enabled":1,"chat_sound_enabled":1};
+
+		$(document).ready( function() {
+			UI.ToolTip( $( '.group_tooltip' ), { delay: 1000 } );
+			VillageContext.init();
+						Quests.setQuestData({"1900":{"id":1900,"goals_completed":0,"goals_total":1,"opened":true,"finished":false,"can_be_skipped":false,"title":"Snaz\u0161\u00ed drancov\u00e1n\u00ed","icon":"icons\/farm_assistent.png","state":"active"},"2010":{"id":2010,"goals_completed":0,"goals_total":1,"opened":true,"finished":false,"can_be_skipped":false,"title":"Str\u00e1\u017e","icon":"unit\/unit_sword.png","state":"active"},"4030":{"id":4030,"goals_completed":2,"goals_total":15,"opened":true,"finished":false,"can_be_skipped":false,"title":"Informace o bojov\u00e1n\u00ed","icon":"unit\/unit_spy.png","state":"active"},"7003":{"id":7003,"goals_completed":0,"goals_total":3,"opened":true,"finished":false,"can_be_skipped":false,"title":"Pokro\u010dil\u00fd tr\u00e9nink","icon":"unit\/unit_knight.png","state":"active"},"7006":{"id":7006,"goals_completed":0,"goals_total":1,"opened":true,"finished":false,"can_be_skipped":false,"title":"Mistr schopnost\u00ed","icon":"unit\/unit_knight.png","state":"active"}});
+					});
+
+		
+		//]]>
+	</script> 
+  <!--[if IE 8]>
+		<style type="text/css">
+			/*
+				Workaround for IE8 textarea scroll bug, see
+
+				http://grantovich.net/posts/2009/06/that-weird-ie8-textarea-bug/
+
+				You also need to set an absolute height for the element. since this depends
+				on the location of the textarea, use an element style.
+			*/
+			textarea.ie8scrollfix { width: 300px !important; min-width: 98%; max-width: 98%;}
+					</style>
+	<![endif]--> 
+  <script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+</script> 
+ </head>
+ <body id="ds_body" class="desktop   " dir="ltr"> 
+  <script type="text/javascript">
+    dataLayer = [{"campaignRef":"none","pageArea":"gamepage","pageMarket":"cz","pageName":"login_success","pagePool":"Tribal Wars","pageScope":"home","pageType":"game","pageVersion":"v1","visitorGameId":"","visitorLoginState":false,"visitorState":""}];
+</script> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-M4ZWXP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M4ZWXP');
+</script> 
+  <!-- End Google Tag Manager --> 
+  <div class="top_bar"> 
+   <div class="bg_left"> 
+   </div> 
+   <div class="bg_right"> 
+   </div> 
+  </div> 
+  <div class="top_shadow"> 
+  </div> 
+  <div class="top_background"> 
+  </div> 
+  <div class="questlog_placeholder">
+   &nbsp;
+  </div> 
+  <table id="main_layout" cellspacing="0"> 
+   <tbody>
+    <tr style="height: 48px;"> 
+     <td class="topbar left fixed"></td> 
+     <td class="topbar center fixed"> 
+      <div id="topContainer"> 
+       <table id="topTable" style="text-align: center;" cellspacing="0"> 
+        <tbody>
+         <tr> 
+          <td style="text-align: center;"> 
+           <table class="menu nowrap" style="white-space: nowrap; "> 
+            <tbody>
+             <tr id="menu_row"> 
+              <td class="menu-side"></td> 
+              <td class="menu-item"><a href="/game.php?village=12563&amp;screen=overview">Náhled</a></td> 
+              <td id="header_menu_link_map" class="menu-item tooltip-delayed" title="Mapa<br/> :: klávesová zkratka: <b>m</b>"><a href="/game.php?village=12563&amp;screen=map">Mapa</a></td> 
+              <td class="menu-item"> <a href="/game.php?village=12563&amp;screen=report"> <span id="new_report" class="icon header new_report_faded"></span> Oznámení <span id="menu_report_count" class="badge badge-report"></span> </a> 
+               <table cellspacing="0" class="menu_column">
+                <tbody>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=all">Všechno<span class="badge badge-report"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=attack">Útoky</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=defense">Obrana </a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=support">Podpora</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=trade">Výmìna</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=event">Události</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=other">Rùzné</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=forwarded">Pøeposláno</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=public">Veøejná</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=report&amp;mode=filter">Filtr</a></td>
+                 </tr>
+                 <tr>
+                  <td class="bottom">
+                   <div class="corner"></div>
+                   <div class="decoration"></div></td>
+                 </tr>
+                </tbody>
+               </table> </td> 
+              <!-- mail --> 
+              <td class="menu-item"> <a href="/game.php?village=12563&amp;screen=mail"> <span id="new_mail" class="icon header new_mail_faded"></span> Zprávy <span id="menu_mail_count" class="badge badge-mail"></span> </a> 
+               <table cellspacing="0" class="menu_column">
+                <tbody>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=mail&amp;mode=in">Zprávy<span class="badge badge-mail"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=mail&amp;mode=mass_out">Hromadný dopis</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=mail&amp;mode=new">Napsat zprávu</a></td>
+                 </tr>
+                 <tr>
+                  <td class="bottom">
+                   <div class="corner"></div>
+                   <div class="decoration"></div></td>
+                 </tr>
+                </tbody>
+               </table> </td> 
+              <td> <a class="manager_icon" style="background-image:url('https://dscs.innogamescdn.com/8.53/30460/graphic/icons/farm_assistent.png')" href="/game.php?village=12563&amp;screen=am_farm" title="Pomocník rabování">&nbsp;</a> <a class="manager_icon" style="background-image:url('https://dscs.innogamescdn.com/8.53/30460/graphic/icons/account_manager.png')" href="/game.php?village=12563&amp;screen=accountmanager" title="Správce úètu">&nbsp;</a> </td> 
+              <td class="menu-item lpad"> </td> 
+              <td class="menu-item" id="topdisplay"> 
+               <div class="bg"> 
+                <a href="/game.php?village=12563&amp;screen=ranking"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/compete/indicator.png" title="" alt="" class=""> Žebøíèek <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/compete/indicator.png" title="" alt="" class=""></a> 
+                <div class="rank">
+                 (
+                 <span id="rank_rank">4<span class="grey">.</span>880</span>.|
+                 <span id="rank_points">335</span> P)
+                </div> 
+                <table cellspacing="0" class="menu_column">
+                 <tbody>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=ally">Kmeny</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=player">Hráèi</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=dominance">Svìtová dominance</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=con_ally">Kmeny na kontinentu</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=con_player">Hráèi na kontinentu</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=kill_ally">Porážka nepøítele (kmen.) </a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=kill_player">Poražený protivník</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=awards">Úspìchy</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=in_a_day">Za den</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=wars">Kmenové války</a></td>
+                  </tr>
+                  <tr>
+                   <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ranking&amp;mode=compete">Výzvy <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/compete/indicator.png" title="" alt="" class=""></a></td>
+                  </tr>
+                  <tr>
+                   <td class="bottom">
+                    <div class="corner"></div>
+                    <div class="decoration"></div></td>
+                  </tr>
+                 </tbody>
+                </table> 
+               </div> </td> 
+              <td class="menu-item rpad"> </td> 
+              <!-- tribe --> 
+              <td class="menu-item"> <a href="/game.php?village=12563&amp;screen=ally"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kmen <span id="menu_counter_ally" class="badge badge-ally-forum"></span> </a> 
+               <div class="buttonicon"> 
+                <a href="/game.php?village=12563&amp;screen=ally&amp;mode=forum" style="display:inline"><span id="tribe_forum_indicator" class="icon header no_new_post" title="Žádný nový pøíspìvek v Kmenovém fórum"></span></a> 
+               </div> 
+               <table cellspacing="0" class="menu_column">
+                <tbody>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=overview">Náhled<span class="badge badge-ally-invite"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=properties">Vlastnosti</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=members">Èlenové</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=contracts">Diplomacie</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=tribalwars">Kmenové války</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=reservations">Rezervaèní systém</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=invite">Rekrutace<span class="badge badge-ally-application"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=ally&amp;mode=forum">Fórum Kmene<span class="badge badge-ally-forum-post"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="bottom">
+                   <div class="corner"></div>
+                   <div class="decoration"></div></td>
+                 </tr>
+                </tbody>
+               </table> </td> 
+              <td class="menu-item"> <a href="/game.php?village=12563&amp;screen=info_player"> Profil <span id="menu_counter_profile" class="badge"></span> </a> 
+               <table cellspacing="0" class="menu_column">
+                <tbody>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=info_player">deadsoul</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=inventory">Inventáø<span class="badge badge-inventory"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=info_player&amp;mode=awards">Úspìchy</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=info_player&amp;mode=stats_own">Statistika</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=buddies">Pøátelé<span class="badge badge-buddy"> </span></a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=mentor">Výukový systém</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=info_player&amp;mode=block">Seznam blokovaných</a></td>
+                 </tr>
+                 <tr>
+                  <td class="bottom">
+                   <div class="corner"></div>
+                   <div class="decoration"></div></td>
+                 </tr>
+                </tbody>
+               </table> </td> 
+              <td class="menu-item"> <a href="/game.php?village=12563&amp;screen=premium"> <span class="coinbag coinbag-header"></span>&nbsp;<span id="premium_points">0</span> <span id="premium_points_buy"></span> </a> 
+               <table cellspacing="0" class="menu_column">
+                <tbody>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=premium&amp;mode=use">Pøedplatné</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=premium&amp;mode=premium" class="premium-buy">Koupì</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=premium&amp;mode=transfer">Pøevod</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=premium&amp;mode=log">Záznam bodù</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=premium&amp;mode=feature_log">Záznam funkcí</a></td>
+                 </tr>
+                 <tr>
+                  <td class="bottom">
+                   <div class="corner"></div>
+                   <div class="decoration"></div></td>
+                 </tr>
+                </tbody>
+               </table> </td> 
+              <td class="menu-item"><a href="/game.php?village=12563&amp;screen=settings">Nastavení</a>
+               <table cellspacing="0" class="menu_column">
+                <tbody>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=settings">Herní možnosti</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=account">Úèet</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=move">Zaèít znovu</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=transfer">Pøesunutí na Casual</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=quickbar">Rychlý náhled</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=share">Sdílení pøipojení</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=vacation">Zástup v dovolené</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=logins">Pøihlášení</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=poll">Prùzkum</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=ref&amp;source=settings_menu">Pozvat hráèe</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=push">Push upozornìní</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=notify">E-mailová oznámení</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=browser_notifications">Upozornìní prohlížeèe</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=command_sharing">Sdílení vojenských pøíkazù</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=village_notes_sharing">Sdílení poznámek o vesnicích</a></td>
+                 </tr>
+                 <tr>
+                  <td class="menu-column-item"><a href="/game.php?village=12563&amp;screen=settings&amp;mode=ticket" target="_blank">Dotaz na Support</a></td>
+                 </tr>
+                 <tr>
+                  <td class="bottom">
+                   <div class="corner"></div>
+                   <div class="decoration"></div></td>
+                 </tr>
+                </tbody>
+               </table></td> 
+              <td class="menu-side"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/loading.gif" id="loading_content" style="display: none" alt="" class=""></td> 
+             </tr> 
+            </tbody>
+           </table> </td> 
+         </tr> 
+        </tbody>
+       </table> 
+      </div> </td> 
+     <td class="topbar right fixed"> </td> 
+    </tr> 
+    <tr class="shadedBG"> 
+     <td class="bg_left"> 
+      <div class="bg_left"> 
+      </div> </td> 
+     <td class="maincell" style="width: 850px;"> 
+      <div style="position:fixed;"> 
+       <div id="questlog" class="questlog"> 
+       </div> 
+      </div> <br class="newStyleOnly"> 
+      <hr class="oldStyleOnly"> 
+      <table id="header_info" align="center" width="100%" cellspacing="0"> 
+       <colgroup> 
+        <col width="1%"> 
+        <col width="96%"> 
+        <col width="1%"> 
+        <col width="1%"> 
+        <col width="1%"> 
+       </colgroup> 
+       <tbody>
+        <tr> 
+         <td class="topAlign"> 
+          <table class="header-border"> 
+           <tbody>
+            <tr> 
+             <td> 
+              <table class="box menu nowrap"> 
+               <tbody>
+                <tr id="menu_row2"> 
+                 <td style="white-space:nowrap;" id="menu_row2_village" class="firstcell box-item icon-box nowrap"> <a class="nowrap tooltip-delayed" title="Náhled vesnice<br/> :: klávesová zkratka: <b>v</b>" href="/game.php?village=12563&amp;screen=overview"><span class="icon header village"></span>deadsoul vesnice</a> </td> 
+                 <td class="box-item" style="padding-right: 6px"><b class="nowrap">(581|437) K45</b></td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+            <tr class="newStyleOnly"> 
+             <td class="shadow"> 
+              <div class="leftshadow"> 
+              </div> 
+              <div class="rightshadow"> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+         <td align="right" class="topAlign"> </td>
+         <!-- flexible gap --> 
+         <td align="right" class="topAlign"> </td> 
+         <td align="right" class="topAlign"> 
+          <table align="right" class="header-border menu_block_right"> 
+           <tbody>
+            <tr> 
+             <td> 
+              <table class="box smallPadding" cellspacing="0" style="empty-cells:show;"> 
+               <tbody>
+                <tr style="height: 20px;"> 
+                 <td class="box-item icon-box firstcell"> <a href="/game.php?village=12563&amp;screen=wood" title="Døevo - 229 za hodinu "><span class="icon header wood"> </span></a> </td> 
+                 <td class="box-item" style="position: relative"> <span id="wood" title="Døevo - 229 za hodinu " class="res">433</span> </td> 
+                 <td class="box-item icon-box"> <a href="/game.php?village=12563&amp;screen=stone" title="Hlína - 229 za hodinu "><span class="icon header stone"> </span></a> </td> 
+                 <td class="box-item"> <span id="stone" title="Hlína - 229 za hodinu " class="res">560</span> </td> 
+                 <td class="box-item icon-box"> <a href="/game.php?village=12563&amp;screen=iron" title="Železo - 125 za hodinu "><span class="icon header iron"> </span></a> </td> 
+                 <td class="box-item"> <span id="iron" title="Železo - 125 za hodinu " class="res">973</span> </td> 
+                 <td class="box-item icon-box"> <a href="/game.php?village=12563&amp;screen=storage" title="Kapacita Skladištì"><span class="icon header ressources"> </span></a> </td> 
+                 <td class="box-item"> <span id="storage" title="Kapacita Skladištì">2810</span> </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+            <tr class="newStyleOnly"> 
+             <td class="shadow"> 
+              <div class="leftshadow"> 
+              </div> 
+              <div class="rightshadow"> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+         <td align="right" class="topAlign"> 
+          <table class="header-border menu_block_right"> 
+           <tbody>
+            <tr> 
+             <td> 
+              <table class="box smallPadding" cellspacing="0"> 
+               <tbody>
+                <tr> 
+                 <td class="box-item icon-box firstcell"><a href="/game.php?village=12563&amp;screen=farm" title="Selský dvùr"><span class="icon header population"> </span></a></td> 
+                 <td class="box-item" align="center" style="margin:0;padding:0;" title="Selský dvùr"> <span id="pop_current_label" class="">310</span>/<span id="pop_max_label">452</span> </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+            <tr class="newStyleOnly"> 
+             <td class="shadow"> 
+              <div class="leftshadow"> 
+              </div> 
+              <div class="rightshadow"> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+         <td align="right" class="topAlign"> 
+          <table class="header-border menu_block_right" style="border-collapse: collapse;"> 
+           <tbody>
+            <tr> 
+             <td> 
+              <table class="box" cellspacing="0"> 
+               <tbody>
+                <tr> 
+                 <td class="box-item firstcell" style="white-space:nowrap;"> <a title="Vlajky" href="/game.php?village=12563&amp;screen=flags" style="vertical-align:middle;"> <span class="icon header flags"></span> </a> </td> 
+                 <td class="box-item icon-box"><a title="Paladin" href="/game.php?village=12563&amp;screen=statue"><span class="icon header knight"></span></a></td> 
+                 <td class="box-item icon-box"> <a href="/game.php?village=12563&amp;screen=ranking&amp;mode=compete" class="tooltip" title=""><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/events/compete/icon.png" title="" alt="" class="menu-event-icon"></a> </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+            <tr class="newStyleOnly"> 
+             <td class="shadow"> 
+              <div class="leftshadow"> 
+              </div> 
+              <div class="rightshadow"> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td>
+         <td class="topAlign  " id="header_commands"> 
+          <table class="header-border menu_block_right"> 
+           <tbody>
+            <tr> 
+             <td> 
+              <table class="box smallPadding no-gap" cellspacing="0"> 
+               <tbody>
+                <tr> 
+                 <td id="incomings_cell" style="text-align: center; padding: 0 4px" class="box-item firstcell nowrap"> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/att.png" title="Pøíchozí útoky" style="vertical-align: -2px" alt="" class=""> <span id="incomings_amount">0</span> </td> 
+                 <td id="supports_cell" style="text-align: center; padding: 0 4px" class="box-item separate nowrap"> <a href=""> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/command/support.png" title="Pøíchozí podpory" style="vertical-align: -2px" alt="" class=""> <span id="supports_amount"></span> </a> </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+            <tr class="newStyleOnly"> 
+             <td class="shadow"> 
+              <div class="leftshadow"> 
+              </div> 
+              <div class="rightshadow"> 
+              </div> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <div id="units_help">
+       <script type="text/javascript">
+//<![CDATA[
+	$(function() {
+		UnitPopup.unit_data = {"spear":{"name":"Kopin\u00edk ","shortname":"Kop\u00ed","image":"unit\/unit_spear.png","type":"infantry","desc":"Kopin\u00edci jsou jednoduchou jednotkou. Jsou mimo\u0159\u00e1dn\u011b efektivn\u00ed p\u0159i obran\u011b proti jezdc\u016fm.","desc_abilities":[],"prod_building":"barracks","build_time":1020,"wood":50,"stone":30,"iron":10,"pop":1,"speed":0.0009259259259,"attack":10,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":15,"defense_cavalry":45,"defense_archer":20,"carry":25,"tag_group":"infantry","can_attack":true,"can_support":true,"attackpoints":4,"defpoints":1,"reqs":[{"building_id":"barracks","building_link":"\/game.php?village=12563&amp;screen=barracks","name":"Kas\u00e1rna","level":1}]},"sword":{"name":"\u0160erm\u00ed\u0159","shortname":"Me\u010d","image":"unit\/unit_sword.png","type":"infantry","desc":"\u0160erm\u00ed\u0159 je vhodn\u00fd na obranu proti p\u011bchot\u011b. Na druhou stranu je v\u0161ak relativn\u011b pomal\u00fd. ","desc_abilities":[],"prod_building":"barracks","build_time":1500,"wood":30,"stone":30,"iron":70,"pop":1,"speed":0.0007575757576,"attack":25,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":52.5,"defense_cavalry":15.75,"defense_archer":42,"carry":15,"tag_group":"infantry","can_attack":true,"can_support":true,"attackpoints":5,"defpoints":2,"reqs":[{"building_id":"smith","building_link":"\/game.php?village=12563&amp;screen=smith","name":"Kov\u00e1rna","level":1}]},"axe":{"name":"Sekern\u00edk","shortname":"Sekera","image":"unit\/unit_axe.png","type":"infantry","desc":"Sekern\u00edci jsou siln\u00e1, \u00fato\u010dn\u00e1 jednotka, av\u0161ak v obran\u011b jsou t\u00e9m\u011b\u0159 nepou\u017eiteln\u00ed. ","desc_abilities":[],"prod_building":"barracks","build_time":1320,"wood":60,"stone":30,"iron":40,"pop":1,"speed":0.0009259259259,"attack":40,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":10,"defense_cavalry":5,"defense_archer":10,"carry":10,"tag_group":"infantry","can_attack":true,"can_support":true,"attackpoints":1,"defpoints":4,"reqs":[{"building_id":"smith","building_link":"\/game.php?village=12563&amp;screen=smith","name":"Kov\u00e1rna","level":2}],"tech_costs":{"wood":700,"stone":840,"iron":820}},"archer":{"name":"Lu\u010di\u0161tn\u00edk","shortname":"Lu\u010di\u0161tn\u00edk","image":"unit\/unit_archer.png","type":"archer","desc":"Lu\u010di\u0161tn\u00edk je efektivn\u00ed obr\u00e1nce. Je schopn\u00fd prorazit sv\u00fdmi \u0161\u00edpy i nejlep\u0161\u00ed brn\u011bn\u00ed. ","desc_abilities":[],"prod_building":"barracks","build_time":1800,"wood":100,"stone":30,"iron":60,"pop":1,"speed":0.0009259259259,"attack":15,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":50,"defense_cavalry":40,"defense_archer":5,"carry":10,"tag_group":"infantry","can_attack":true,"can_support":true,"attackpoints":5,"defpoints":2,"reqs":[{"building_id":"barracks","building_link":"\/game.php?village=12563&amp;screen=barracks","name":"Kas\u00e1rna","level":5},{"building_id":"smith","building_link":"\/game.php?village=12563&amp;screen=smith","name":"Kov\u00e1rna","level":5}],"tech_costs":{"wood":640,"stone":560,"iron":740}},"spy":{"name":"\u0160peh","shortname":"\u0160peh","image":"unit\/unit_spy.png","type":"other","desc":"\u0160pehov\u00e9 se vkradou do znep\u0159\u00e1telen\u00fdch vesnic, k z\u00edsk\u00e1n\u00ed informac\u00ed o bohatstv\u00ed a vojensk\u00e9 s\u00edle.","desc_abilities":["Kdy\u017e \u00fato\u010d\u00ed, m\u016f\u017ee b\u00fdt pora\u017een jen ciz\u00edmi \u0161pehy.","Po \u00fatoku se vr\u00e1t\u00ed s dodate\u010dn\u00fdmi informacemi z boje."],"prod_building":"stable","build_time":900,"wood":50,"stone":50,"iron":20,"pop":2,"speed":0.001851851852,"attack":0,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":2,"defense_cavalry":1,"defense_archer":2,"carry":0,"tag_group":"spy","can_attack":true,"can_support":true,"attackpoints":1,"defpoints":2,"reqs":[{"building_id":"stable","building_link":"\/game.php?village=12563&amp;screen=stable","name":"St\u00e1j","level":1}],"tech_costs":{"wood":560,"stone":480,"iron":480}},"light":{"name":"Lehk\u00e1 kaval\u00e9rie","shortname":"LK","image":"unit\/unit_light.png","type":"cavalry","desc":"Lehk\u00e1 kaval\u00e9rie je v\u00fdborn\u00e1 \u00fato\u010dn\u00e1 jednotka. Hod\u00ed se na vykon\u00e1v\u00e1n\u00ed neo\u010dek\u00e1van\u00e9ho \u00fatoku na vesnice protivn\u00edka, jeliko\u017e jej\u00ed p\u0159ednost\u00ed je rychlost a nosnost surovin.","desc_abilities":[],"prod_building":"stable","build_time":1800,"wood":125,"stone":100,"iron":250,"pop":4,"speed":0.001666666667,"attack":130,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":30,"defense_cavalry":40,"defense_archer":30,"carry":80,"tag_group":"cavalry","can_attack":true,"can_support":true,"attackpoints":5,"defpoints":13,"reqs":[{"building_id":"stable","building_link":"\/game.php?village=12563&amp;screen=stable","name":"St\u00e1j","level":3}],"tech_costs":{"wood":2200,"stone":2400,"iron":2000}},"marcher":{"name":"Lu\u010di\u0161tn\u00edk na koni","shortname":"Lu\u010di\u0161tn\u00edk na koni","image":"unit\/unit_marcher.png","type":"archer","desc":"Lu\u010di\u0161tn\u00edk na koni a jeho p\u0159esn\u00e9 st\u0159ely se hod\u00ed k napaden\u00ed nep\u0159\u00e1telsk\u00fdch lu\u010di\u0161tn\u00edk\u016f, stoj\u00edc\u00edch na opevn\u011bn\u00ed. ","desc_abilities":[],"prod_building":"stable","build_time":2700,"wood":250,"stone":100,"iron":150,"pop":5,"speed":0.001666666667,"attack":120,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":40,"defense_cavalry":30,"defense_archer":50,"carry":50,"tag_group":"cavalry","can_attack":true,"can_support":true,"attackpoints":6,"defpoints":12,"reqs":[{"building_id":"stable","building_link":"\/game.php?village=12563&amp;screen=stable","name":"St\u00e1j","level":5}],"tech_costs":{"wood":3000,"stone":2400,"iron":2000}},"heavy":{"name":"T\u011b\u017ek\u00e1 kaval\u00e9rie","shortname":"TK","image":"unit\/unit_heavy.png","type":"cavalry","desc":"T\u011b\u017ek\u00e1 kaval\u00e9rie je elita tv\u00fdch jednotek. Jejich rychlost ti umo\u017en\u00ed soust\u0159edit svoji obranu rychle i do jin\u00fdch vesnic.","desc_abilities":[],"prod_building":"stable","build_time":3600,"wood":200,"stone":150,"iron":600,"pop":6,"speed":0.001515151515,"attack":150,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":200,"defense_cavalry":80,"defense_archer":180,"carry":50,"tag_group":"cavalry","can_attack":true,"can_support":true,"attackpoints":23,"defpoints":15,"reqs":[{"building_id":"stable","building_link":"\/game.php?village=12563&amp;screen=stable","name":"St\u00e1j","level":10},{"building_id":"smith","building_link":"\/game.php?village=12563&amp;screen=smith","name":"Kov\u00e1rna","level":15}],"tech_costs":{"wood":3000,"stone":2400,"iron":2000}},"ram":{"name":"Beranidlo","shortname":"Beranidlo","image":"unit\/unit_ram.png","type":"infantry","desc":"Beranidla pom\u00e1haj\u00ed tv\u00fdm jednotk\u00e1m v \u00fatoku tak, \u017ee ni\u010d\u00ed opevn\u011bn\u00ed a sni\u017euj\u00ed jeho efektivitu.","desc_abilities":["Po\u0161kozuje hradby a sni\u017euje jeho efektivitu v boji."],"prod_building":"garage","build_time":4800,"wood":300,"stone":200,"iron":200,"pop":5,"speed":0.0005555555556,"attack":2,"building_attack_multiplier":1,"additional_max_wall_negation":0,"defense":20,"defense_cavalry":50,"defense_archer":20,"carry":0,"tag_group":"siege","can_attack":true,"can_support":true,"attackpoints":4,"defpoints":8,"reqs":[{"building_id":"garage","building_link":"\/game.php?village=12563&amp;screen=garage","name":"D\u00edlna","level":1}],"tech_costs":{"wood":1200,"stone":1600,"iron":800}},"catapult":{"name":"Katapult","shortname":"Katapult","image":"unit\/unit_catapult.png","type":"infantry","desc":"Katapulty jsou \u00fato\u010dn\u00e1 jednotka, kter\u00e1 po\u0161kozuje nep\u0159\u00e1telsk\u00e9 voj\u00e1ky a ni\u010d\u00ed budovy ve vesnici, na kterou \u00fato\u010d\u00ed\u0161.","desc_abilities":["Po\u0161kozuje vybranou nep\u0159\u00e1telskou budovu."],"prod_building":"garage","build_time":7200,"wood":320,"stone":400,"iron":100,"pop":8,"speed":0.0005555555556,"attack":100,"building_attack_multiplier":1,"additional_max_wall_negation":null,"defense":100,"defense_cavalry":50,"defense_archer":100,"carry":0,"tag_group":"siege","can_attack":true,"can_support":true,"attackpoints":12,"defpoints":10,"reqs":[{"building_id":"garage","building_link":"\/game.php?village=12563&amp;screen=garage","name":"D\u00edlna","level":2},{"building_id":"smith","building_link":"\/game.php?village=12563&amp;screen=smith","name":"Kov\u00e1rna","level":12}],"tech_costs":{"wood":1600,"stone":2000,"iron":1200}},"knight":{"name":"Paladin","shortname":"Pala","image":"unit\/unit_knight.png","type":"cavalry","desc":"Paladin je mocn\u00e1 a vz\u00e1cn\u00e1 jednotka, kterou m\u016f\u017ee\u0161 rekrutovat v so\u0161e. Jednou z jeho schopnost\u00ed je to, \u017ee zvy\u0161uje rychlost podpory, pokud se v n\u00ed nach\u00e1z\u00ed.","desc_abilities":["M\u016f\u017ee se nau\u010dit r\u016fzn\u00e9 schopnosti.","M\u016f\u017ee z\u00edsk\u00e1vat zku\u0161enosti a vy\u0161\u0161\u00ed \u00farovn\u011b.","Po obsazen\u00ed dal\u0161\u00edch vesnic je mo\u017en\u00e9 rekrutovat v\u00edce paladin\u016f.","Jednotky, kter\u00e9 cestuj\u00ed s paladinem jako podpora, se pohybuj\u00ed rychlost\u00ed paladina."],"prod_building":"statue","build_time":21600,"wood":20,"stone":20,"iron":40,"pop":10,"speed":0.001666666667,"attack":150,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":250,"defense_cavalry":400,"defense_archer":150,"carry":100,"tag_group":"infantry","can_attack":true,"can_support":true,"attackpoints":40,"defpoints":20},"snob":{"name":"\u0160lechtic","shortname":"\u0160lechta","image":"unit\/unit_snob.png","type":"infantry","desc":"\u00datok, ve kter\u00e9m p\u0159e\u017eije alespo\u0148 jeden \u0161lechtic, sni\u017euje oddanost vesnice. Jakmile bude oddanost vesnice sn\u00ed\u017eena na 0 nebo ni\u017e\u0161\u00ed, zmocn\u00ed\u0161 se j\u00ed. \u0160lechtic, kter\u00fd vesnici p\u0159ebral, v\u0161ak zmiz\u00ed.","desc_abilities":["Sni\u017euje oddanost vesnice o 20 a\u017e 35 bod\u016f."],"prod_building":"snob","build_time":18000,"wood":40000,"stone":50000,"iron":50000,"pop":100,"speed":0.0004761904762,"attack":30,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":100,"defense_cavalry":50,"defense_archer":100,"carry":0,"tag_group":"snob","can_attack":true,"can_support":true,"attackpoints":200,"defpoints":200,"reqs":[{"building_id":"snob","building_link":"\/game.php?village=12563&amp;screen=snob","name":"Pansk\u00fd dv\u016fr","level":1},{"building_id":"main","building_link":"\/game.php?village=12563&amp;screen=main","name":"Hlavn\u00ed budova","level":20},{"building_id":"smith","building_link":"\/game.php?village=12563&amp;screen=smith","name":"Kov\u00e1rna","level":20},{"building_id":"market","building_link":"\/game.php?village=12563&amp;screen=market","name":"Tr\u017ei\u0161t\u011b","level":10}]},"militia":{"name":"Domobrana","shortname":"Domobrana","image":"unit\/unit_militia.png","type":"infantry","desc":"Pokud na svoji vesnici o\u010dek\u00e1v\u00e1\u0161 \u00fatok, m\u016f\u017ee\u0161 prost\u0159ednictv\u00edm selsk\u00e9ho dvora povolat domobranu, kter\u00e1 bude br\u00e1nit tv\u00e9 \u00fazem\u00ed. Domobranu je mo\u017en\u00e9 vyu\u017e\u00edt jen k obran\u011b, nelze ji vyslat mimo vesnici.","desc_abilities":[],"prod_building":"farm","build_time":1,"wood":0,"stone":0,"iron":0,"pop":0,"speed":1,"attack":0,"building_attack_multiplier":null,"additional_max_wall_negation":null,"defense":15,"defense_cavalry":45,"defense_archer":25,"carry":0,"tag_group":"infantry","can_attack":false,"can_support":false,"attackpoints":4,"defpoints":1,"reqs":[{"building_id":"farm","building_link":"\/game.php?village=12563&amp;screen=farm","name":"Selsk\u00fd dv\u016fr","level":1}]}};
+		UnitPopup.init();
+			});
+//]]>
+</script> 
+       <div class="popup_helper"> 
+        <div id="inline_popup" class="hidden" style="width:700px;"> 
+         <div id="inline_popup_menu"> 
+          <span id="inline_popup_title"></span> 
+          <a id="inline_popup_close" href="javascript:inlinePopupClose()">X</a> 
+         </div> 
+         <div id="inline_popup_main" style="height: auto;"> 
+          <div id="inline_popup_content"></div> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="unit_popup_template" style="display: none"> 
+        <div class="inner-border main content-border" style="border: none; font-weight: normal"> 
+         <table style="float: left;width:450px"> 
+          <tbody>
+           <tr> 
+            <td> <p class="unit_desc"></p> </td> 
+           </tr> 
+           <tr> 
+            <td> 
+             <table style="border: 1px solid #DED3B9;" class="vis" width="100%"> 
+              <tbody>
+               <tr> 
+                <th width="180">Náklady</th> 
+                <th>Obyvatelstvo</th> 
+                <th>Rychlost </th> 
+                <th>Unese</th> 
+               </tr> 
+               <tr class="center"> 
+                <td>
+                 <nobr>
+                  <span class="icon header wood"> </span>
+                  <span class="unit_wood"></span>
+                 </nobr> 
+                 <nobr>
+                  <span class="icon header stone"> </span>
+                  <span class="unit_stone"></span>
+                 </nobr> 
+                 <nobr>
+                  <span class="icon header iron"> </span>
+                  <span class="unit_iron"></span>
+                 </nobr></td> 
+                <td><span class="icon header population"> </span><span class="unit_pop"></span></td> 
+                <td id="unit_speed"></td> 
+                <td class="unit_carry"></td> 
+               </tr> 
+              </tbody>
+             </table> <br> 
+             <table class="vis" style="border: 1px solid #DED3B9;text-align:center" width="100%"> 
+              <tbody>
+               <tr>
+                <th colspan="3">Bojové hodnoty</th>
+               </tr> 
+               <tr>
+                <td align="left">Síla útoku</td>
+                <td width="20px"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/att.png" alt="Síla útoku" class=""></td>
+                <td><span class="unit_attack"></span></td>
+               </tr> 
+               <tr>
+                <td align="left">Všeobecná obrana </td>
+                <td><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/def.png" alt="Všeobecná obrana " class=""></td>
+                <td><span class="unit_defense"></span></td>
+               </tr> 
+               <tr>
+                <td align="left">Obrana proti kavalérii </td>
+                <td><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/def_cav.png" alt="Obrana proti kavalérii " class=""></td>
+                <td><span class="unit_defense_cavalry"></span></td>
+               </tr> 
+               <tr>
+                <td align="left">Obrana proti luèištníkùm</td>
+                <td><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/def_archer.png" alt="Obrana proti luèištníkùm" class=""></td>
+                <td><span class="unit_defense_archer"></span></td>
+               </tr> 
+              </tbody>
+             </table> <br> 
+             <div class="show_if_has_abilities"> 
+              <table class="vis" style="width:100%;"> 
+               <tbody>
+                <tr>
+                 <th>Speciální schopnosti</th>
+                </tr> 
+                <tr>
+                 <td>
+                  <ul class="unit_info_abilities" style="margin:5px;padding-left:20px;"></ul></td>
+                </tr> 
+               </tbody>
+              </table> 
+              <br> 
+             </div> 
+             <div class="show_if_has_reqs"> 
+              <table class="vis" width="100%"> 
+               <tbody>
+                <tr>
+                 <th id="reqs_count" colspan="1">Pøedpoklady ke zkoumání jednotky</th>
+                </tr> 
+                <tr id="reqs"></tr> 
+               </tbody>
+              </table> 
+              <br> 
+             </div> 
+             <table class="unit_tech vis unit_tech_levels" width="100%"> 
+              <tbody>
+               <tr style="text-align:center"> 
+                <th>Tech-Level</th> 
+                <th width="350">Náklady za zkoumání</th> 
+                <th width="30" style="text-align:center"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/att.png" alt="Síla útoku" class=""></th> 
+                <th width="30" style="text-align:center"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/def.png" alt="Všeobecná obrana " class=""></th> 
+                <th width="30" style="text-align:center"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/def_cav.png" alt="Obrana proti kavalérii " class=""></th> 
+                <th width="30" style="text-align:center"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/def_archer.png" alt="Obrana proti luèištníkùm" class=""></th> 
+               </tr> 
+               <tr id="unit_tech_prototype" style="display: none;text-align:center"> 
+                <td class="tech_level"></td> 
+                <td> <span class="grey tech_researched">již prozkoumáno</span> <span class="tech_res_list"> <span class="icon header wood"> </span><span class="tech_wood"></span> <span class="icon header stone"> </span><span class="tech_stone"></span> <span class="icon header iron"> </span><span class="tech_iron"></span> </span> </td> 
+                <td class="tech_att"></td> 
+                <td class="tech_def"></td> 
+                <td class="tech_def_cav"></td> 
+                <td class="tech_def_archer"></td> 
+               </tr> 
+              </tbody>
+             </table> 
+             <table class="vis unit_tech unit_tech_cost" width="100%"> 
+              <tbody>
+               <tr>
+                <th>Náklady za zkoumání</th>
+               </tr> 
+               <tr>
+                <td><span class="icon header wood"> </span><span class="tech_cost_wood"></span> <span class="icon header stone"> </span><span class="tech_cost_stone"></span> <span class="icon header iron"> </span><span class="tech_cost_iron"></span></td>
+               </tr> 
+              </tbody>
+             </table> </td> 
+           </tr> 
+          </tbody>
+         </table> 
+         <img style="margin-top: 60px; max-width: 200px; display: none" id="unit_image" src="graphic/map/empty.png" alt=""> 
+        </div> 
+       </div> 
+      </div> 
+      <div id="script_warning" class="info_box" style="display: none;">
+        Aktivované skripty nejsou kompatibilní s aktuální verzí. 
+       <br> Jestliže ti hra nefunguje správnì, deaktivuj prosím skripty.
+       <br> Pokud problém pøetrvává, kontaktuj autora skriptu: 
+       <ul id="script_list"></ul> 
+      </div> 
+      <!-- *********************** CONTENT BELOW ************************** --> 
+      <table align="center" id="contentContainer" width="100%"> 
+       <tbody>
+        <tr> 
+         <td> 
+          <table class="content-border" width="100%" cellspacing="0"> 
+           <tbody>
+            <tr> 
+             <td id="inner-border"> 
+              <table class="main" align="left"> 
+               <tbody>
+                <tr> 
+                 <td id="content_value"> 
+                  <table cellspacing="0" cellpadding="0" id="overviewtable" align="center"> 
+                   <tbody>
+                    <tr> 
+                     <td valign="top" id="leftcolumn" width="612"> 
+                      <div id="show_summary" class="vis moveable widget"> 
+                       <h4 class="head"> <img class="widget-button" onclick="return VillageOverview.toggleWidget( 'show_summary', this );" src="graphic/minus.png"> deadsoul vesnice (335 bodù) </h4> 
+                       <div class="widget_content" style="display: block;"> 
+                        <div id="buildings_visual" style="position:relative; width: 600px; border-bottom: #7d510f"> 
+                         <div id="l_main" style="display: inline" class="l_main" title="Hlavní budova"> 
+                          <a href="/game.php?village=12563&amp;screen=main"> 
+                           <div class="label">
+                            7
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_barracks" style="display: inline" class="l_barracks" title="Kasárna"> 
+                          <a href="/game.php?village=12563&amp;screen=barracks"> 
+                           <div class="label">
+                            5
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_smith" style="display: inline" class="l_smith" title="Kovárna"> 
+                          <a href="/game.php?village=12563&amp;screen=smith"> 
+                           <div class="label">
+                            5
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_place" style="display: inline" class="l_place" title="Nádvoøí"> 
+                          <a href="/game.php?village=12563&amp;screen=place"> 
+                           <div class="label">
+                            1
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_statue" style="display: inline" class="l_statue" title="Socha"> 
+                          <a href="/game.php?village=12563&amp;screen=statue"> 
+                           <div class="label">
+                            1
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_market" style="display: inline" class="l_market" title="Tržištì"> 
+                          <a href="/game.php?village=12563&amp;screen=market"> 
+                           <div class="label">
+                            1
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_wood" style="display: inline" class="l_wood" title="Døevorubec"> 
+                          <a href="/game.php?village=12563&amp;screen=wood"> 
+                           <div class="label">
+                            14
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_stone" style="display: inline" class="l_stone" title="Lom na tìžbu hlíny"> 
+                          <a href="/game.php?village=12563&amp;screen=stone"> 
+                           <div class="label">
+                            14
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_iron" style="display: inline" class="l_iron" title="Železný dùl"> 
+                          <a href="/game.php?village=12563&amp;screen=iron"> 
+                           <div class="label">
+                            10
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_farm" style="display: inline" class="l_farm" title="Selský dvùr"> 
+                          <a href="/game.php?village=12563&amp;screen=farm"> 
+                           <div class="label">
+                            5
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_storage" style="display: inline" class="l_storage" title="Skladištì"> 
+                          <a href="/game.php?village=12563&amp;screen=storage"> 
+                           <div class="label">
+                            6
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_hide" style="display: inline" class="l_hide" title="Skrýš"> 
+                          <a href="/game.php?village=12563&amp;screen=hide"> 
+                           <div class="label">
+                            3
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <div id="l_wall" style="display: inline" class="l_wall" title="Hradby"> 
+                          <a href="/game.php?village=12563&amp;screen=wall"> 
+                           <div class="label">
+                            1
+                            <span class="building_order_level"></span>
+                           </div> </a> 
+                         </div> 
+                         <img style="vertical-align: middle" width="600" height="418" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//back_none.jpg" alt=""> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_main_flag" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//mainflag2.gif" alt=""> 
+                         <img class="p_main" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//main2.png" alt="Hlavní budova"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_barracks" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//barracks2.png" alt="Kasárna"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_smith" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//smith2.png" alt="Kovárna"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_place" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//place1.png" alt="Nádvoøí"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_statue" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//statue1.png" alt="Socha"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_market" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//market1.png" alt="Tržištì"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_wood" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//wood2.gif" alt="Døevorubec"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_stone" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//stone2.gif" alt="Lom na tìžbu hlíny"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_iron" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//iron2.gif" alt="Železný dùl"> 
+                         <img class="npc_farmer" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//farmer.gif" alt=""> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_storage" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//storage1.png" alt="Skladištì"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_hide" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//hide1.png" alt="Skrýš"> 
+                         <img class="p_church" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//church_disabled.png" alt=""> 
+                         <img class="p_wall" src="https://dscs.innogamescdn.com/8.53/30460/graphic/visual//wall1.png" alt="Hradby"> 
+                         <img class="empty" src="https://dscs.innogamescdn.com/8.53/30460/graphic/map/empty.png" alt="" usemap="#map"> 
+                         <map name="map" id="map"> <area id="map_main" shape="poly" coords="373,187,417,129,407,72,329,65,306,99,311,150" href="/game.php?village=12563&amp;screen=main" alt="Hlavní budova" title="Hlavní budova"> <area id="map_barracks" shape="poly" coords="392,289,444,313,506,283,481,235,442,216,392,252" href="/game.php?village=12563&amp;screen=barracks" alt="Kasárna" title="Kasárna"> <area id="map_smith" shape="poly" coords="174,335,222,361,271,342,283,301,216,262" href="/game.php?village=12563&amp;screen=smith" alt="Kovárna" title="Kovárna"> <area id="map_place" shape="poly" coords="315,271,379,275,401,229,375,206,343,207" href="/game.php?village=12563&amp;screen=place" alt="Nádvoøí" title="Nádvoøí"> <area id="map_statue" shape="poly" coords="277,231,256,265,266,285,292,287,306,266" href="/game.php?village=12563&amp;screen=statue" alt="Socha" title="Socha"> <area id="map_market" shape="poly" coords="214,149,234,228,313,230,330,169,273,122" href="/game.php?village=12563&amp;screen=market" alt="Tržištì" title="Tržištì"> <area id="map_wood" shape="poly" coords="472,379,523,417,583,373,528,330" href="/game.php?village=12563&amp;screen=wood" alt="Døevorubec" title="Døevorubec"> <area id="map_stone" shape="poly" coords="34,300,0,349,15,399,67,417,91,402,92,341" href="/game.php?village=12563&amp;screen=stone" alt="Lom na tìžbu hlíny" title="Lom na tìžbu hlíny"> <area id="map_iron" shape="poly" coords="0,55,45,90,93,58,89,6,39,9" href="/game.php?village=12563&amp;screen=iron" alt="Železný dùl" title="Železný dùl"> <area id="map_farm" shape="poly" coords="456,0,477,41,526,75,583,88,597,18,597,0" href="/game.php?village=12563&amp;screen=farm" alt="Selský dvùr" title="Selský dvùr"> <area id="map_storage" shape="poly" coords="96,192,153,218,195,215,193,148,133,121" href="/game.php?village=12563&amp;screen=storage" alt="Skladištì" title="Skladištì"> <area id="map_hide" shape="poly" coords="241,80,261,113,294,93,268,63" href="/game.php?village=12563&amp;screen=hide" alt="Skrýš" title="Skrýš"> <area id="map_wall" shape="poly" coords="428,333,430,382,472,363,470,318" href="/game.php?village=12563&amp;screen=wall" alt="Hradby" title="Hradby"> </map> 
+                        </div> 
+                       </div> 
+                      </div>
+                      <div id="show_event" class="vis moveable hidden_widget" style="display:none"> 
+                       <h4>Výzvy</h4> 
+                      </div>
+                      <div id="show_incoming_units" class="vis moveable hidden_widget" style="display:none"> 
+                       <h4>Pøíchozí vojsko</h4> 
+                      </div>
+                      <div id="show_outgoing_units" class="vis moveable widget"> 
+                       <h4 class="head"> <img class="widget-button" onclick="return VillageOverview.toggleWidget( 'show_outgoing_units', this );" src="graphic/minus.png"> Tvé vojsko </h4> 
+                       <div class="widget_content" style="display: block;"> 
+                        <table class="vis" style="width:100%"> 
+                         <tbody>
+                          <tr> 
+                           <th width="52%">Vlastní povely (<span class="command-list-count">3</span>)</th> 
+                           <th width="33%">Pøíchod</th> 
+                           <th width="15%">Dorazí za</th> 
+                          </tr> 
+                          <tr> 
+                           <td> <span class="own_command" data-icon-hint="Malý útok (1-1000 jednotek)" data-command-type="attack" data-command-id="1467830199"> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/command/attack_small.png" title="" alt="" class=""> </span> <span class="quickedit-out" data-id="1467830199" data-ignore-icons="1"> <span class="quickedit-content"> <a href="/game.php?village=12563&amp;screen=info_command&amp;id=1467830199&amp;type=own"> <span class="quickedit-label"> Útok na Host928347 vesnice (580|436) K45 </span> </a> </span> </span> </td> 
+                           <td>dnes v 15:14:16:<span class="grey small">861</span> hodin</td> 
+                           <td style="min-width:90px"> <span class="timer" data-endtime="1472908456">0:29:53</span> <a style="float:right" class="command-cancel tooltip" data-id="1467830199" data-home="12563" title="zrušit" href="/game.php?village=12563&amp;screen=place&amp;action=cancel&amp;id=1467830199&amp;h=d56b2cee"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/delete.png" title="" alt="" class=""></a> </td> 
+                          </tr> 
+                          <tr> 
+                           <td> <span class="own_command" data-icon-hint="Malý útok (1-1000 jednotek) (vracející se)" data-command-type="return" data-command-id="352636118"> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/command/return_attack_small.png" title="" alt="" class=""> </span> <span class="quickedit-out" data-id="352636118" data-ignore-icons="1"> <span class="quickedit-content"> <a href="/game.php?village=12563&amp;screen=info_command&amp;id=352636118&amp;type=own"> <span class="quickedit-label"> Návrat z Vesnice barbarù (586|435) K45 </span> </a> </span> </span> </td> 
+                           <td>dnes v 15:43:00:<span class="grey small">000</span> hodin</td> 
+                           <td> <span class="timer" data-endtime="1472910180">0:58:37</span> </td> 
+                          </tr> 
+                          <tr> 
+                           <td> <span class="own_command" data-icon-hint="Malý útok (1-1000 jednotek) (vracející se)" data-command-type="return" data-command-id="885444758"> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/command/return_attack_small.png" title="" alt="" class=""> </span> <span class="quickedit-out" data-id="885444758" data-ignore-icons="1"> <span class="quickedit-content"> <a href="/game.php?village=12563&amp;screen=info_command&amp;id=885444758&amp;type=own"> <span class="quickedit-label"> Návrat z Vesnice barbarù (586|435) K45 </span> </a> </span> </span> </td> 
+                           <td>dnes v 15:58:00:<span class="grey small">000</span> hodin</td> 
+                           <td> <span class="timer" data-endtime="1472911080">1:13:37</span> </td> 
+                          </tr> 
+                         </tbody>
+                        </table> 
+                        <script>
+	$(function(){
+		$('.quickedit-out').QuickEdit( { show_icons: false, url: TribalWars.buildURL('POST', 'info_command', { ajaxaction: 'edit_own_comment', id: '__ID__' } ) } );
+		Command.init();
+	});
+</script>
+                       </div> 
+                      </div> </td>
+                     <td valign="top" id="rightcolumn" width="612"> 
+                      <div id="show_newbie" class="vis moveable hidden_widget" style="display:none"> 
+                       <h4>Obrana pøed útokem</h4> 
+                      </div>
+                      <div id="show_prod" class="vis moveable widget"> 
+                       <h4 class="head"> <img class="widget-button" onclick="return VillageOverview.toggleWidget( 'show_prod', this );" src="graphic/minus.png"> Produkce </h4> 
+                       <div class="widget_content" style="display: block;">
+                        <table width="100%"> 
+                         <tbody>
+                          <tr class="nowrap"> 
+                           <td width="70"> <a href="/game.php?village=12563&amp;screen=wood"><span class="icon wood-bonus" title="Zvýšeno o 15"> </span></a> Døevo </td> 
+                           <td> <strong> 229</strong> za hodinu </td> 
+                          </tr> 
+                          <tr class="nowrap"> 
+                           <td width="70"> <a href="/game.php?village=12563&amp;screen=stone"><span class="icon stone-bonus" title="Zvýšeno o 15"> </span></a> Hlína </td> 
+                           <td> <strong> 229</strong> za hodinu </td> 
+                          </tr> 
+                          <tr class="nowrap"> 
+                           <td width="70"> <a href="/game.php?village=12563&amp;screen=iron"><span class="icon iron-bonus" title="Zvýšeno o 8"> </span></a> Železo </td> 
+                           <td> <strong> 125</strong> za hodinu </td> 
+                          </tr> 
+                          <tr> 
+                           <td colspan="2"><a href="/game.php?village=12563&amp;screen=premium&amp;mode=use&amp;"><span class="coinbag solo"></span> <span>Zvýšit produkci</span></a></td> 
+                          </tr> 
+                         </tbody>
+                        </table> 
+                       </div> 
+                      </div>
+                      <div id="show_units" class="vis moveable widget"> 
+                       <h4 class="head"> <img class="widget-button" onclick="return VillageOverview.toggleWidget( 'show_units', this );" src="graphic/minus.png"> Jednotky </h4> 
+                       <div class="widget_content" style="display: block;">
+                        <table class="vis" width="100%"> 
+                         <tbody>
+                          <tr> 
+                           <td class="tooltip" title=" :: <div class=&quot;knight_identification_tooltip&quot;>
+    <span class=&quot;portrait sprite&quot; style=&quot;width:50px;height:50px;background-image: url(https://dscs.innogamescdn.com/8.53/30460/graphic/knight/mini_portraits.png);background-size:50px 600px;background-position:0px -100px&quot;></span>
+    <div class=&quot;info&quot;>
+        <div class=&quot;header&quot;>
+            <span class=&quot;level&quot;>
+                <span class=&quot;background&quot;></span>
+                <span class=&quot;value&quot;>7</span>
+                <img class=&quot;frame&quot; src=&quot;https://dscs.innogamescdn.com/8.53/30460/graphic/knight/level_frame.png&quot;>
+            </span>
+            <span class=&quot;name&quot;>Chanas</span>
+        </div>
+        <div class=&quot;skill_points&quot;>
+            <span class=&quot;points_held&quot;>Body zkušeností: <span class=&quot;&quot;>2</span></span>
+            <span class=&quot;points_invested&quot;>
+                Využitých:                                    <span style=&quot;color:rgb(122, 0, 0)&quot;>3</span>
+                                    <span style=&quot;color:rgb(0, 100, 0)&quot;>1</span>
+                                    <span style=&quot;color:rgb(0, 0, 150)&quot;>1</span>
+                            </span>
+        </div>
+    </div>
+</div>
+"> <a href="#" class="unit_link" data-unit="knight"><img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/unit_knight.png" title="" alt="" class=""> </a> <strong>1</strong> Chanas </td> 
+                          </tr> 
+                          <tr> 
+                           <td><a href="/game.php?village=12563&amp;screen=train">» rekrutovat</a></td> 
+                          </tr> 
+                         </tbody>
+                        </table> 
+                       </div> 
+                      </div>
+                      <div id="show_mood" class="vis moveable hidden_widget" style="display:none"> 
+                       <h4>Oddanost <span class="icon info-small tooltip" title="Útoky se šlechticem sníží oddanost v této vesnici. Klesne-li oddanost na 0, tato vesnice bude dobyta a obsazena!"><span></span></span></h4> 
+                      </div>
+                      <div id="show_effects" class="vis moveable widget"> 
+                       <h4 class="head"> <img class="widget-button" onclick="return VillageOverview.toggleWidget( 'show_effects', this );" src="graphic/minus.png"> Aktivní bonus </h4> 
+                       <div class="widget_content" style="display: block;">
+                        <table style="width: 100%"> 
+                         <tbody>
+                          <tr> 
+                           <td class="village_overview_effect "> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/flags/small/1.png" alt="" style="vertical-align: middle"> <a href="/game.php?village=12563&amp;screen=flags">+4% Suroviny</a> </td> 
+                          </tr> 
+                          <!-- night --> 
+                          <!-- benefit --> 
+                          <tr> 
+                           <td class="effect_tooltip village_overview_effect" title="
+                        <h3><img src=&quot;https://dscs.innogamescdn.com/8.53/30460/graphic/holz.png&quot;> +3% produkce døeva</h3>
+                        :: <i></i>
+
+                        <ul>
+                                                                                                                                        <li>
+                                                                                            Zdroj: tvùj paladin Chanas                                                                                    </li>
+                                                                                                                        </ul>
+                    "> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/holz.png" alt="" style="vertical-align: middle"> +3% produkce døeva </td> 
+                          </tr> 
+                          <!-- night --> 
+                          <!-- benefit --> 
+                          <tr> 
+                           <td class="effect_tooltip village_overview_effect" title="
+                        <h3><img src=&quot;https://dscs.innogamescdn.com/8.53/30460/graphic/lehm.png&quot;> +3% produkce hlíny</h3>
+                        :: <i></i>
+
+                        <ul>
+                                                                                                                                        <li>
+                                                                                            Zdroj: tvùj paladin Chanas                                                                                    </li>
+                                                                                                                        </ul>
+                    "> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/lehm.png" alt="" style="vertical-align: middle"> +3% produkce hlíny </td> 
+                          </tr> 
+                          <!-- night --> 
+                          <!-- benefit --> 
+                          <tr> 
+                           <td class="effect_tooltip village_overview_effect" title="
+                        <h3><img src=&quot;https://dscs.innogamescdn.com/8.53/30460/graphic/eisen.png&quot;> +3% produkce železa</h3>
+                        :: <i></i>
+
+                        <ul>
+                                                                                                                                        <li>
+                                                                                            Zdroj: tvùj paladin Chanas                                                                                    </li>
+                                                                                                                        </ul>
+                    "> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/eisen.png" alt="" style="vertical-align: middle"> +3% produkce železa </td> 
+                          </tr> 
+                          <!-- night --> 
+                          <!-- benefit --> 
+                          <tr> 
+                           <td class="effect_tooltip village_overview_effect" title="
+                        <h3><img src=&quot;https://dscs.innogamescdn.com/8.53/30460/graphic/unit/unit_sword.png&quot;> Meè: +5% obranná síla</h3>
+                        :: <i></i>
+
+                        <ul>
+                                                                                                                                        <li>
+                                                                                            Zdroj: tvùj paladin Chanas                                                                                    </li>
+                                                                                                                        </ul>
+                    "> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/unit/unit_sword.png" alt="" style="vertical-align: middle"> Meè: +5% obranná síla </td> 
+                          </tr> 
+                         </tbody>
+                        </table> 
+                        <script>
+    $(function() { UI.initOverflowTooltips(); });
+</script>
+                       </div> 
+                      </div> </td> 
+                    </tr> 
+                   </tbody>
+                  </table> <style type="text/css">
+	.placeholder {
+		height: 20px;
+	}
+
+	.moveable h4 {
+		cursor:move;
+	}
+</style> <script type="text/javascript">
+//<![CDATA[
+$( function() {
+	VillageOverview.urls.reorder = '/game.php?village=12563&screen=overview&ajaxaction=reorder&&h=d56b2cee';
+	VillageOverview.urls.toggle = '/game.php?village=12563&screen=overview&ajaxaction=toggle&&h=d56b2cee';
+	VillageOverview.init();
+
+	});
+//]]>
+</script> </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+       </tbody>
+      </table> <p class="server_info"> Serverový èas: <span id="serverTime">14:44:23</span> <span id="serverDate">03/09/2016</span> <span id="dev_console" style="display: none"><b>|</b> <a href="?screen=74:72:69:62:61:6c:77:61:72:73">developer console</a></span> </p> </td> 
+     <td class="bg_right" id="SkyScraperAdCell"> 
+      <div class="bg_right"> 
+      </div> 
+      <div id="SkyScraperAd"> 
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+       <!-- Tribalwars CZ / Large Skyscraper --> 
+       <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-3075228501697696" data-ad-slot="5371318568"></ins> 
+       <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td class="bg_leftborder"> </td> 
+     <td></td> 
+     <td class="bg_rightborder"> </td> 
+    </tr> 
+    <tr class="newStyleOnly"> 
+     <td class="bg_bottomleft">&nbsp;</td> 
+     <td class="bg_bottomcenter">&nbsp;</td> 
+     <td class="bg_bottomright">&nbsp;</td> 
+    </tr> 
+   </tbody>
+  </table>
+  <!-- .main_layout --> 
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1897727-10']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_gat._anonymizeIp']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+
+</script> 
+  <div id="world_selection_clicktrap" class="evt-world-selection-toggle"> 
+  </div> 
+  <div id="world_selection_popup"> 
+   <div class="servers-list-top"></div> 
+   <div id="servers-list-block"> 
+   </div> 
+   <div class="servers-list-bottom"></div> 
+  </div> 
+  <div class="chat-open-buffer"></div> 
+  <div id="bottom"> 
+   <div id="chat-wrapper"> 
+   </div> 
+   <div id="footer"> 
+    <a href="#" id="unsupported-browser"> <img src="https://dscs.innogamescdn.com/8.53/30460/graphic/error.png" title="" alt="" class=""> Nepodporovaný prohlížeè </a> 
+    <div id="linkContainer"> 
+     <a href="#" class="world_button_active evt-world-selection-toggle">Svìt 48</a> 
+     <a href="https://forum.divokekmeny.cz/index.php" class="footer-link" target="_blank">Fórum</a> &nbsp;-&nbsp; 
+     <a href="http://help.divokekmeny.cz" class="footer-link" target="_blank">Nápovìda</a> &nbsp;-&nbsp; 
+     <a href="/game.php?village=12563&amp;screen=settings&amp;mode=ticket" class="footer-link" target="_blank">Support</a> &nbsp;-&nbsp; 
+     <a href="/game.php?village=12563&amp;screen=settings&amp;mode=ref&amp;source=bottom_menu" class="footer-link">Pozvat hráèe</a> &nbsp;-&nbsp; 
+     <a href="/game.php?village=12563&amp;screen=memo" class="footer-link">Poznámkový blok</a> &nbsp;-&nbsp; 
+     <a href="/game.php?village=12563&amp;screen=&amp;action=logout&amp;h=d56b2cee" target="_top" class="footer-link">Odhlášení </a> 
+    </div> 
+   </div> 
+  </div> 
+  <!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: TW Global Active User and Unique Player ID
+URL of the webpage where the tag is expected to be placed: https://om.die-staemme.de/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 05/19/2014
+--> 
+  <iframe src="https://4432873.fls.doubleclick.net/activityi;src=4432873;type=activsal;cat=twGLacs;qty=1;cost=[Revenue];u2={PLAYER_ID};ord=[OrderID]?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
+  <!-- End of DoubleClick Floodlight Tag: Please do not remove --> 
+  <!-- Google Code für Search-Remarketing--> 
+  <!--
+Remarketing-Tags dürfen nicht mit personenbezogenen Daten verknüpft oder auf Seiten platziert werden, die sensiblen Kategorien angehören. Weitere Informationen und Anleitungen zur Einrichtung des Tags erhalten Sie unter: http://google.com/ads/remarketingsetup
+---------------------------------------------------> 
+  <div style="display:inline;"> 
+   <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973263328/?value=0&amp;guid=ON&amp;script=0"> 
+  </div> 
+  <script>
+	$(document).ready(function() {
+        Timing.init(1472906663.069);
+        TribalWars.initTab('04f791b5c8');
+
+
+
+			WorldSwitch.init();
+		WorldSwitch.worldsURL = '/game.php?village=12563&screen=api&ajax=world_switch&';
+	
+			HotKeys.init();
+	
+			Connection.connect('cs48.divokekmeny.cz', 8081, 'dfc3e73558f0', true);
+	
+			UI.Notification.enabled = true;
+	
+	
+    
+	
+	
+		});
+</script> 
+  <div id="side-notification-container"></div> 
+  <!-- emoji images by Twitter Twemoji -->   
+ </body>
+</html>

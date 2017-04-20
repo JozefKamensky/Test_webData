@@ -1,0 +1,792 @@
+Lokalizácia: Trenèiansky kraj, okres Nové Mesto nad Váhom, Podolie
+GPS: N48°40'36'' E17°46'18''
+Miesto konania: Park miniatúr v Podolí
+Termín konania: 4.8.2016 - 7.8.2016
+Typ podujatia: iné podujatie, vıstava, podujatie pre deti
+Lokalizácia: ilinskı kraj, okres Tvrdošín, Zuberec
+GPS: N49°15'36'' E19°39'36''
+Miesto konania: Zuberec
+Termín konania: 5.8.2016 - 7.8.2016
+Typ podujatia: folklórne podujatie, TOP podujatie
+Lokalizácia: Košickı kraj, Košice
+GPS: N48°43'18'' E21°14'13''
+Miesto konania: Nová nemocnica
+Termín konania: 5.8.2016 - 7.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Kemarok, Ve¾ká Lomnica
+GPS: N49°8'15'' E20°20'17''
+Miesto konania: Golfovı rezort Black Stork, A PGA Golf Course Ve¾ká Lomnica
+Termín konania: 6.8.2016
+Typ podujatia: športové podujatie, podujatie pre deti
+Lokalizácia: Prešovskı kraj, okres Poprad, diar
+GPS: N49°16'22'' E20°18'26''
+Termín konania: 6.8.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Drietoma
+GPS: N48°54'10'' E17°57'2''
+Miesto konania: Drietoma
+Termín konania: 6.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'41'' E18°2'27''
+Miesto konania: Mierové námestie Trenèín
+Termín konania: 6.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'37'' E17°6'31''
+Miesto konania: Bratislava, centrum mesta
+Termín konania: 6.8.2016
+Typ podujatia: gastronomické podujatie
+Lokalizácia: Prešovskı kraj, okres Poprad, Liptovská Teplièka
+GPS: N48°58'3'' E20°5'23''
+Termín konania: 6.8.2016 - 7.8.2016
+Typ podujatia: folklórne podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Vyšné Rubachy
+GPS: N49°18'12'' E20°33'59''
+Termín konania: 7.8.2016
+Typ podujatia: folklórne podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°10'34'' E16°58'48''
+Termín konania: 7.8.2016
+Typ podujatia: historické podujatie
+Lokalizácia: Trnavskı kraj, okres Galanta, Galanta
+GPS: N48°11'22'' E17°43'36''
+Termín konania: 11.8.2016 - 13.8.2016
+Typ podujatia: gastronomické podujatie, iné podujatie, trh, jarmok
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Miesto konania: Trnava
+Termín konania: 11.8.2016 - 14.8.2016
+Typ podujatia: folklórne podujatie, TOP podujatie
+Lokalizácia: Trnavskı kraj, okres Piešany, Pieštany
+GPS: N48°36'41'' E17°49'56''
+Termín konania: 12.8.2016 - 13.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Pezinok
+GPS: N48°16'58'' E17°16'13''
+Miesto konania: Pezinok
+Termín konania: 12.8.2016 - 14.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Hniezdne
+GPS: N49°18'12'' E20°37'51''
+Miesto konania: Nestville Park, Hniezdne
+Termín konania: 13.8.2016
+Typ podujatia: TOP podujatie, hudobnı festival
+Lokalizácia: Bratislavskı kraj, okres Senec, Senec
+GPS: N48°13'18'' E17°24'3''
+Miesto konania: Senec, Nám. 1.mája a Lichnerova ulica
+Termín konania: 13.8.2016 - 14.8.2016
+Typ podujatia: folklórne podujatie, trh, jarmok
+Lokalizácia: Nitriansky kraj, okres Levice, Starı Tekov
+GPS: N48°14'42'' E18°32'9''
+Miesto konania: Starı Tekov
+Termín konania: 13.8.2016 - 14.8.2016
+Typ podujatia: folklórne podujatie, TOP podujatie
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'39'' E18°2'41''
+Miesto konania: Trenèiansky hrad
+Termín konania: 14.8.2016
+Typ podujatia: iné podujatie, podujatie pre deti, koncert
+Lokalizácia: Prešovskı kraj, okres Levoèa, Spisskı Hrhov
+GPS: N49°0'9'' E20°38'24''
+Termín konania: 19.8.2016
+Typ podujatia: multiánrovı festival
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Modra
+GPS: N48°20'4'' E17°18'26''
+Miesto konania: Modra, Nemeckı evanjelickı kostol
+Termín konania: 19.8.2016 - 21.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Banskobystrickı kraj, okres Detva, Hriòová
+GPS: N48°34'25'' E19°31'16''
+Miesto konania: Hriòová – Slanec
+Termín konania: 20.8.2016
+Typ podujatia: folklórne podujatie, gastronomické podujatie, trh, jarmok, TOP podujatie
+Lokalizácia: Nitriansky kraj, okres Nitra, Mojmírovce
+GPS: N48°12'23'' E18°3'41''
+Miesto konania: Mojmírovce, kaštie¾
+Termín konania: 20.8.2016
+Typ podujatia: historické podujatie
+Lokalizácia: Banskobystrickı kraj, okres Detva, Hriòová
+GPS: N48°35'9'' E19°29'10''
+Miesto konania: Hriòová, Raticov vrch
+Termín konania: 21.8.2016
+Typ podujatia: folklórne podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'42'' E17°6'24''
+Miesto konania: Bratislava
+Termín konania: 13.2.2016 - 12.11.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Banskobystrickı kraj, okres Banská Bystrica, Banská Bystrica
+GPS: N48°44'24'' E19°9'41''
+Miesto konania: Slovenská pošta, a. s., Poštové múzeum, Banská Bystrica
+Termín konania: 26.2.2016 - 14.10.2016
+Typ podujatia: vıstava
+Lokalizácia: Trenèiansky kraj, okres Nové Mesto nad Váhom, Podolie
+GPS: N48°40'36'' E17°46'18''
+Termín konania: 25.3.2016 - 31.10.2016
+Typ podujatia: vıstava
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°51'50'' E18°1'25''
+Termín konania: 10.4.2016 - 1.11.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°10'34'' E16°58'48''
+Miesto konania: Hrad Devín
+Termín konania: 1.5.2016 - 4.9.2016
+Typ podujatia: TOP podujatie, historické podujatie
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Pezinok
+GPS: N48°17'21'' E17°16'0''
+Miesto konania: Pezinok
+Termín konania: 4.5.2016 - 29.10.2016
+Typ podujatia: gastronomické podujatie
+Lokalizácia: Nitriansky kraj, okres Levice, eliezovce
+GPS: N48°2'46'' E18°39'32''
+Miesto konania: Levice, Tekovské múzeum
+Termín konania: 9.5.2016 - 22.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'29'' E17°6'27''
+Miesto konania: Bratislava
+Termín konania: 2.6.2016 - 14.9.2016
+Typ podujatia: TOP podujatie, multiánrovı festival
+Lokalizácia: Trenèiansky kraj, okres Prievidza, Bojnice
+GPS: N48°46'48'' E18°34'41''
+Miesto konania: priestory bıvalej zámockej reštaurácie
+Termín konania: 6.6.2016 - 31.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Košickı kraj, okres Roòava, Betliar
+GPS: N48°42'21'' E20°30'36''
+Miesto konania: Kaštie¾ Betliar
+Termín konania: 9.6.2016 - 18.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'32'' E17°6'1''
+Miesto konania: Bratislava, Bratislavskı hrad
+Termín konania: 16.6.2016 - 16.10.2016
+Typ podujatia: vıstava
+Lokalizácia: Trnavskı kraj, okres Piešany, Piešany
+GPS: N48°35'30'' E17°49'38''
+Termín konania: 17.6.2016 - 28.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'32'' E17°6'1''
+Miesto konania: Bratislava, Bratislavskı hrad
+Termín konania: 22.6.2016 - 30.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°17'41'' E21°16'31''
+Miesto konania: Bazilika sv. Egídia, Bardejov
+Termín konania: 28.6.2016 - 30.8.2016
+Typ podujatia: koncert
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'45'' E17°6'26''
+Miesto konania: Bratislava
+Termín konania: 30.6.2016 - 31.8.2016
+Typ podujatia: TOP podujatie, hudobnı festival
+Lokalizácia: Trenèiansky kraj, okres Prievidza, Bojnice
+GPS: N48°46'45'' E18°34'37''
+Miesto konania: Bojnickı zámok
+Termín konania: 1.7.2016 - 31.8.2016
+Typ podujatia: historické podujatie, podujatie pre deti
+Lokalizácia: Banskobystrickı kraj, okres iar nad Hronom, Kremnica
+GPS: N48°42'24'' E18°55'3''
+Miesto konania: Kostol sv. Kataríny, Kremnica
+Termín konania: 2.7.2016 - 13.8.2016
+Typ podujatia: TOP podujatie, hudobnı festival
+Lokalizácia: Prešovskı kraj, okres Poprad, Vysoké Tatry
+GPS: N49°8'21'' E20°13'22''
+Termín konania: 3.7.2016 - 28.8.2016
+Typ podujatia: iné podujatie, podujatie pre deti
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèianske Teplice
+GPS: N48°54'35'' E18°10'4''
+Miesto konania: Trenèianske Teplice
+Termín konania: 8.7.2016 - 2.9.2016
+Typ podujatia: hudobnı festival, multiánrovı festival
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Èastá
+GPS: N48°23'30'' E17°20'7''
+Miesto konania: Hrad Èervenı Kameò, Èastá
+Termín konania: 8.7.2016 - 11.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'45'' E17°6'26''
+Miesto konania: Bratislava
+Termín konania: 24.7.2016 - 31.7.2016
+Lokalizácia: Trnavskı kraj, okres Skalica, Skalica
+GPS: N48°50'41'' E17°13'30''
+Termín konania: 18.3.2016 - 18.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Košickı kraj, Košice
+GPS: N48°43'39'' E21°15'14''
+Termín konania: 14.4.2016 - 28.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Banskobystrickı kraj, okres Banská Štiavnica, Svätı Anton
+GPS: N48°25'20'' E18°56'28''
+Miesto konania: Múzeum vo Svätom Antone
+Termín konania: 16.4.2016 - 30.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Termín konania: 16.4.2016 - 30.9.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Košickı kraj, Košice
+GPS: N48°43'39'' E21°15'15''
+Miesto konania: Vıchodoslovenské múzeum
+Termín konania: 21.4.2016 - 4.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, okres Malacky, Stupava
+GPS: N48°16'30'' E17°1'55''
+Miesto konania: Svätı Jur, Udièa-Prosné, Sú¾ov, Stupava, Svit, Hrabušice
+Termín konania: 30.4.2016 - 3.9.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Banskobystrickı kraj, okres Banská Bystrica, Banská Bystrica
+GPS: N48°44'15'' E19°8'47''
+Miesto konania: Matejov dom, Námestie Š. Moysesa 20, Banská Bystrica
+Termín konania: 1.5.2016 - 25.9.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Banskobystrickı kraj, okres Banská Bystrica, Banská Bystrica
+GPS: N48°44'7'' E19°8'43''
+Miesto konania: Banská Bystrica
+Termín konania: 1.5.2016 - 27.9.2016
+Typ podujatia: iné podujatie, vıstava, podujatie pre deti
+Lokalizácia: Trenèiansky kraj, okres Povaská Bystrica, Povaská Bystrica
+GPS: N49°6'16'' E18°27'15''
+Miesto konania: vıstavné priestory Vlastivedného múzea v Povaskej Bystrici
+Termín konania: 12.5.2016 - 31.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Banskobystrickı kraj, okres Banská Bystrica, Banská Bystrica
+GPS: N48°44'14'' E19°8'31''
+Termín konania: 14.5.2016 - 30.9.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Bratislavskı kraj, okres Malacky, Malacky
+GPS: N48°26'11'' E17°1'6''
+Miesto konania: Malacky, priestory kaštie¾a
+Termín konania: 21.5.2016 - 11.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Trnavskı kraj, okres Galanta, Galanta
+GPS: N48°11'22'' E17°43'36''
+Termín konania: 21.5.2016 - 30.11.2016
+Typ podujatia: vıstava, Noc múzeí a galérií
+Lokalizácia: Trnavskı kraj, okres Skalica, Skalica
+GPS: N48°50'41'' E17°13'30''
+Termín konania: 25.5.2016 - 11.9.2016
+Typ podujatia: iné podujatie, vıstava, podujatie pre deti, koncert
+Lokalizácia: Trnavskı kraj, okres Dunajská Streda, Orechová Potôò
+GPS: N48°3'19'' E17°34'15''
+Termín konania: 30.5.2016 - 5.9.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Prešovskı kraj, okres Prešov, Prešov
+GPS: N48°59'53'' E21°14'27''
+Miesto konania: Krajské múzeum v Prešove
+Termín konania: 2.6.2016 - 9.10.2016
+Typ podujatia: vıstava
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'35'' E18°2'18''
+Miesto konania: Verejná kninica Michala Rešetku v Trenèíne, Mestská vea, Galéria M.A. Bazovského
+Termín konania: 6.6.2016 - 29.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Svätı Jur
+GPS: N48°15'15'' E17°12'45''
+Miesto konania: Pezinok, Malokarpatské múzeum
+Termín konania: 10.6.2016 - 28.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'13'' E17°6'58''
+Termín konania: 10.6.2016 - 31.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'24'' E17°6'34''
+Miesto konania: Bratislava, Slovenská národná galéria
+Termín konania: 10.6.2016 - 11.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Poprad, Poprad
+GPS: N49°3'30'' E20°17'52''
+Miesto konania: Tatranská galéria Poprad
+Termín konania: 17.6.2016 - 31.7.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Poprad, Vysoké Tatry
+GPS: N49°8'29'' E20°13'26''
+Miesto konania: Vila Flóra Starı Smokovec
+Termín konania: 18.6.2016 - 4.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Poprad, Vysoké Tatry
+GPS: N49°11'19'' E20°13'56''
+Miesto konania: Galéria Encian Skalnaté pleso
+Termín konania: 18.6.2016 - 22.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Vranov nad Top¾ou, Vranov nad Top¾ou
+GPS: N48°53'26'' E21°40'57''
+Miesto konania: Dom kultúry Vranov nad Top¾ou
+Termín konania: 20.6.2016 - 31.7.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Poprad, Poprad
+GPS: N49°3'30'' E20°17'52''
+Miesto konania: Tatranská galéria Poprad
+Termín konania: 22.6.2016 - 18.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'24'' E17°6'34''
+Miesto konania: Bratislava, Slovenská národná galéria
+Termín konania: 23.6.2016 - 25.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Prešovskı kraj, okres Poprad, Vysoké Tatry
+GPS: N49°11'19'' E20°13'56''
+Miesto konania: Skalnaté pleso
+Termín konania: 24.6.2016 - 20.8.2016
+Typ podujatia: gastronomické podujatie, iné podujatie
+Lokalizácia: Prešovskı kraj, okres Poprad, Poprad
+GPS: N49°3'30'' E20°17'52''
+Miesto konania: Tatranská galéria Poprad
+Termín konania: 24.6.2016 - 4.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Košickı kraj, okres Spišská Nová Ves, Spišská Nová Ves
+GPS: N48°56'39'' E20°34'5''
+Miesto konania: Vea Rím.-kat. farského kostola Nanebovzatia Panny Márie
+Termín konania: 24.6.2016 - 14.12.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Stará ¼ubovòa
+GPS: N49°18'51'' E20°41'50''
+Miesto konania: ¼ubovnianska múzeum
+Termín konania: 25.6.2016 - 30.8.2016
+Typ podujatia: vıstava
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Termín konania: 25.6.2016 - 3.9.2016
+Typ podujatia: iné podujatie, podujatie pre deti
+Lokalizácia: Trnavskı kraj, okres Dunajská Streda, Šamorín
+GPS: N48°0'43'' E17°18'27''
+Termín konania: 25.6.2016 - 15.10.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Nitriansky kraj, okres Nitra, Nitra
+GPS: N48°18'57'' E18°5'7''
+Miesto konania: Nitra, Nitrianska galéria
+Termín konania: 30.6.2016 - 4.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Košickı kraj, okres Roòava, Betliar
+GPS: N48°42'21'' E20°30'36''
+Termín konania: 1.7.2016 - 26.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Nitriansky kraj, okres Nitra, Nitra
+GPS: N48°19'6'' E18°5'13''
+Miesto konania: Nitra, Nitriansky hrad
+Termín konania: 1.7.2016 - 31.8.2016
+Typ podujatia: iné podujatie, podujatie pre deti
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Termín konania: 1.7.2016 - 31.8.2016
+Typ podujatia: iné podujatie, podujatie pre deti, koncert
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'42'' E18°2'31''
+Miesto konania: Mierové námestie Trenèín
+Termín konania: 2.7.2016 - 28.8.2016
+Typ podujatia: multiánrovı festival, podujatie pre deti, koncert
+Lokalizácia: Bratislavskı kraj, okres Senec, Hamuliakovo
+GPS: N48°2'3'' E17°13'57''
+Miesto konania: Bratislava - Èunovo, Danubiana Meulensteen Art Museum
+Termín konania: 2.7.2016 - 13.11.2016
+Typ podujatia: vıstava
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Termín konania: 3.7.2016 - 28.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'25'' E17°6'34''
+Miesto konania: Bratislava, Berlinka, Esterházyho palác
+Termín konania: 6.7.2016 - 31.8.2016
+Typ podujatia: filmovı festival
+Lokalizácia: Nitriansky kraj, okres Nitra, Nitra
+GPS: N48°18'57'' E18°5'7''
+Miesto konania: Nitra, Nitrianska galéria
+Termín konania: 14.7.2016 - 11.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Trenèiansky kraj, okres Prievidza, Bojnice
+GPS: N48°46'49'' E18°34'39''
+Miesto konania: Zámok Bojnice
+Termín konania: 15.7.2016 - 27.8.2016
+Typ podujatia: iné podujatie, historické podujatie
+Lokalizácia: Trnavskı kraj, okres Senica, Senica
+GPS: N48°40'48'' E17°21'40''
+Termín konania: 19.7.2016 - 31.7.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Trnavskı kraj, okres Galanta, Galanta
+GPS: N48°11'30'' E17°43'54''
+Termín konania: 21.7.2016 - 18.8.2016
+Typ podujatia: podujatie pre deti
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèianske Teplice
+GPS: N48°54'34'' E18°10'30''
+Termín konania: 24.7.2016 - 6.8.2016
+Typ podujatia: kongres, konferencia
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'32'' E17°6'1''
+Miesto konania: Bratislava, areál Bratislavského hradu
+Termín konania: 27.7.2016 - 16.8.2016
+Typ podujatia: divadelnı festival, TOP podujatie
+Lokalizácia: Trenèiansky kraj, okres Prievidza, Prievidza
+GPS: N48°46'17'' E18°37'42''
+Miesto konania: Galéria Regionart v RKC Prievidza
+Termín konania: 27.7.2016 - 6.9.2016
+Typ podujatia: vıstava, podujatie pre deti
+Lokalizácia: Prešovskı kraj, okres tatrzañski, Vysoké Tatry
+GPS: N49°10'46'' E20°5'17''
+Termín konania: 28.7.2016 - 31.7.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Bratislavskı kraj, okres Senec, Senec
+GPS: N48°12'60'' E17°25'60''
+Miesto konania: Senec - Slneèné jazerá Juh
+Termín konania: 29.7.2016 - 6.8.2016
+Typ podujatia: gastronomické podujatie
+Lokalizácia: Košickı kraj, Košice
+GPS: N48°42'50'' E21°15'17''
+Miesto konania: Kasárne/Kulturpark
+Termín konania: 29.7.2016 - 28.8.2016
+Typ podujatia: TOP podujatie, multiánrovı festival
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Termín konania: 29.7.2016 - 11.9.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Trenèiansky kraj, okres Nové Mesto nad Váhom, Višòové
+GPS: N48°43'24'' E17°45'33''
+Miesto konania: Èachtice - Višòové
+Termín konania: 30.7.2016
+Typ podujatia: podujatie pre deti
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'29'' E17°6'27''
+Miesto konania: Bratislava
+Termín konania: 30.7.2016 - 31.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Košickı kraj, okres Spišská Nová Ves, Spišská Nová Ves
+GPS: N48°56'39'' E20°33'57''
+Termín konania: 2.8.2016 - 4.9.2016
+Typ podujatia: vıstava
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Termín konania: 5.8.2016 - 6.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'42'' E18°2'31''
+Miesto konania: Mierové námestie v Trenèíne
+Termín konania: 6.8.2016 - 6.11.2016
+Typ podujatia: trh, jarmok
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Haligovce
+GPS: N49°22'48'' E20°26'23''
+Termín konania: 8.8.2016 - 14.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Levoèa
+GPS: N49°1'34'' E20°35'20''
+Miesto konania: Levoèa
+Termín konania: 10.8.2016 - 21.8.2016
+Typ podujatia: iné podujatie, multiánrovı festival
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Èastá
+GPS: N48°23'30'' E17°20'7''
+Miesto konania: Hrad Èervenı Kameò, Èastá
+Termín konania: 14.8.2016
+Typ podujatia: náboenské podujatie, TOP podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Levoèa
+GPS: N49°1'34'' E20°35'20''
+Miesto konania: Levoèa
+Termín konania: 19.8.2016 - 20.8.2016
+Typ podujatia: trh, jarmok, TOP podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Levoèa
+GPS: N49°1'34'' E20°35'20''
+Miesto konania: Levoèa
+Termín konania: 19.8.2016 - 20.8.2016
+Typ podujatia: TOP podujatie, multiánrovı festival
+Lokalizácia: Banskobystrickı kraj, okres Ve¾kı Krtíš, Hrušov
+GPS: N48°9'14'' E19°5'27''
+Miesto konania: Hrušov
+Termín konania: 19.8.2016 - 20.8.2016
+Typ podujatia: folklórne podujatie, gastronomické podujatie, trh, jarmok, TOP podujatie, multiánrovı festival
+Lokalizácia: Trnavskı kraj, okres Skalica, Skalica
+GPS: N48°50'41'' E17°13'30''
+Termín konania: 19.8.2016 - 20.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Trnavskı kraj, okres Dunajská Streda, Orechová Potôò
+GPS: N48°1'6'' E17°32'5''
+Termín konania: 19.8.2016 - 21.8.2016
+Typ podujatia: športové podujatie, TOP podujatie
+Lokalizácia: Trnavskı kraj, okres Dunajská Streda, Šamorín
+GPS: N48°0'43'' E17°18'27''
+Termín konania: 19.8.2016 - 21.8.2016
+Typ podujatia: iné podujatie, športové podujatie
+Lokalizácia: Prešovskı kraj, okres Kemarok, Èervenı Kláštor
+GPS: N49°23'20'' E20°25'20''
+Termín konania: 20.8.2016
+Typ podujatia: folklórne podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°10'34'' E16°58'48''
+Miesto konania: Hrad Devín
+Termín konania: 20.8.2016
+Typ podujatia: folklórne podujatie, iné podujatie, TOP podujatie, multiánrovı festival
+Lokalizácia: ilinskı kraj, okres Liptovskı Mikuláš, Demänovská Dolina
+GPS: N48°58'20'' E19°35'54''
+Miesto konania: Jasná - Bratislava
+Termín konania: 20.8.2016 - 21.8.2016
+Typ podujatia: športové podujatie, TOP podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Granè - Petrovce
+GPS: N48°59'46'' E20°48'12''
+Termín konania: 20.8.2016 - 21.8.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Trnavskı kraj, okres Piešany, Piešany
+GPS: N48°34'22'' E17°49'28''
+Termín konania: 20.8.2016 - 21.8.2016
+Typ podujatia: gastronomické podujatie, iné podujatie, podujatie pre deti
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°19'34'' E21°16'35''
+Miesto konania: Bardejov - pred radnicou
+Termín konania: 21.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°17'33'' E21°16'33''
+Miesto konania: Bardejov
+Termín konania: 25.8.2016 - 28.8.2016
+Typ podujatia: trh, jarmok, TOP podujatie, podujatie pre deti
+Lokalizácia: Prešovskı kraj, okres Kemarok, Èervenı Kláštor
+GPS: N49°23'24'' E20°25'14''
+Miesto konania: Èervenı Kláštor
+Termín konania: 25.8.2016 - 28.8.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°11'4'' E17°11'18''
+Miesto konania: Bratislava, Zlaté piesky
+Termín konania: 26.8.2016 - 27.8.2016
+Typ podujatia: TOP podujatie, hudobnı festival
+Lokalizácia: Banskobystrickı kraj, okres iar nad Hronom, Kremnica
+GPS: N48°42'15'' E18°54'60''
+Miesto konania: Kremnica, centrum mesta
+Termín konania: 26.8.2016 - 28.8.2016
+Typ podujatia: TOP podujatie, multiánrovı festival
+Lokalizácia: Banskobystrickı kraj, okres Detva, Detva
+GPS: N48°34'15'' E19°25'28''
+Miesto konania: Detva, amfiteáter
+Termín konania: 27.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Stará ¼ubovòa
+GPS: N49°18'55'' E20°41'58''
+Miesto konania: Hrad ¼ubovòa
+Termín konania: 28.8.2016
+Typ podujatia: koncert
+Lokalizácia: Prešovskı kraj, okres Kemarok, Kemarok
+GPS: N49°8'0'' E20°25'43''
+Miesto konania: Drevenı artikulárny kostol Kemarok
+Termín konania: 30.8.2016
+Typ podujatia: hudobnı festival, koncert
+Lokalizácia: Košickı kraj, Košice
+GPS: N48°43'16'' E21°15'28''
+Termín konania: 2.9.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Trenèiansky kraj, okres Myjava, Stará Myjava
+GPS: N48°49'12'' E17°36'6''
+Miesto konania: Skiland Stará Myjava
+Termín konania: 3.9.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Do¾any
+GPS: N48°24'54'' E17°22'42''
+Miesto konania: Do¾any
+Termín konania: 3.9.2016
+Typ podujatia: gastronomické podujatie, iné podujatie, športové podujatie
+Lokalizácia: Banskobystrickı kraj, okres Banská Štiavnica, Svätı Anton
+GPS: N48°25'20'' E18°56'28''
+Miesto konania: Areál Múzea vo Svätom Antone
+Termín konania: 3.9.2016 - 4.9.2016
+Typ podujatia: iné podujatie, TOP podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'29'' E17°6'27''
+Miesto konania: Bratislava, Staré mesto
+Termín konania: 3.9.2016 - 4.9.2016
+Typ podujatia: folklórne podujatie, trh, jarmok, TOP podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Spišské Podhradie
+GPS: N49°0'0'' E20°45'6''
+Termín konania: 4.9.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Levoèa
+GPS: N49°1'34'' E20°35'20''
+Termín konania: 9.9.2016 - 12.9.2016
+Typ podujatia: TOP podujatie, hudobnı festival
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Modra
+GPS: N48°20'4'' E17°18'26''
+Miesto konania: Raèa, Pezinok, Modra
+Termín konania: 9.9.2016 - 25.9.2016
+Typ podujatia: gastronomické podujatie, TOP podujatie
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Èastá
+GPS: N48°23'30'' E17°20'7''
+Miesto konania: Hrad Èervenı Kameò, Èastá
+Termín konania: 10.9.2016
+Typ podujatia: iné podujatie, hudobnı festival, historické podujatie, podujatie pre deti
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°3'20'' E17°8'57''
+Miesto konania: Bratislava - Rusovce
+Termín konania: 10.9.2016
+Typ podujatia: TOP podujatie, historické podujatie
+Lokalizácia: Prešovskı kraj, okres Prešov, Prešov
+GPS: N48°58'44'' E21°16'11''
+Termín konania: 10.9.2016 - 11.9.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°17'34'' E21°16'31''
+Miesto konania: Bardejov - pred radnicou
+Termín konania: 18.9.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Trnavskı kraj, okres Skalica, Skalica
+GPS: N48°50'41'' E17°13'30''
+Termín konania: 23.9.2016 - 25.9.2016
+Typ podujatia: folklórne podujatie, gastronomické podujatie, iné podujatie, trh, jarmok
+Lokalizácia: Nitriansky kraj, okres Nitra, Nitra
+GPS: N48°18'53'' E18°5'17''
+Miesto konania: Nitra
+Termín konania: 23.9.2016 - 28.9.2016
+Typ podujatia: divadelnı festival, TOP podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°7'39'' E17°4'20''
+Miesto konania: Bratislava, Petralka - Bunker B-S4
+Termín konania: 24.9.2016
+Typ podujatia: historické podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Hniezdne
+GPS: N49°18'3'' E20°38'21''
+Miesto konania: Nestvile Park, Hniezdne
+Termín konania: 27.9.2016 - 30.9.2016
+Typ podujatia: iné podujatie, podujatie pre deti
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'38'' E17°7'39''
+Miesto konania: Bratislava, design factory
+Termín konania: 28.9.2016 - 11.11.2016
+Typ podujatia: vıstava
+Lokalizácia: Banskobystrickı kraj, okres Banská Bystrica, Banská Bystrica
+GPS: N48°43'49'' E19°8'9''
+Miesto konania: Banská Bystrica, Bratislava, Košice, Poprad, Tatranská Lomnica, ilina
+Termín konania: 30.9.2016
+Typ podujatia: iné podujatie, TOP podujatie
+Lokalizácia: Banskobystrickı kraj, okres Krupina, Sebechleby
+GPS: N48°16'20'' E18°56'21''
+Termín konania: 1.10.2016
+Typ podujatia: folklórne podujatie, gastronomické podujatie, TOP podujatie
+Lokalizácia: Prešovskı kraj, okres Prešov, Prešov
+GPS: N49°0'7'' E21°14'34''
+Termín konania: 8.10.2016 - 9.10.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Poprad, Poprad
+GPS: N49°3'20'' E20°17'43''
+Miesto konania: Mestskı úrad Poprad
+Termín konania: 12.10.2016 - 16.10.2016
+Typ podujatia: TOP podujatie, filmovı festival
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°17'34'' E21°16'31''
+Miesto konania: Bardejov - pred radnicou
+Termín konania: 16.10.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Hniezdne
+GPS: N49°18'3'' E20°38'21''
+Miesto konania: Nestville Park, Hniezdne
+Termín konania: 29.10.2016 - 30.10.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Prešov, Prešov
+GPS: N48°59'47'' E21°14'28''
+Termín konania: 12.11.2016 - 13.11.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°17'34'' E21°16'31''
+Miesto konania: Bardejov - pred radnicou
+Termín konania: 20.11.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Levoèa, Levoèa
+GPS: N49°1'34'' E20°35'20''
+Termín konania: 6.12.2016
+Typ podujatia: Vianoce, podujatie pre deti
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°9'35'' E17°8'9''
+Miesto konania: Bratislava, Zimnı štadión O. Nepelu
+Termín konania: 8.12.2016
+Typ podujatia: TOP podujatie, koncert
+Lokalizácia: Prešovskı kraj, okres Prešov, Prešov
+GPS: N48°59'47'' E21°14'28''
+Termín konania: 10.12.2016 - 11.12.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Bardejov, Bardejov
+GPS: N49°17'34'' E21°16'31''
+Miesto konania: Bardejov - pred radnicou
+Termín konania: 18.12.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Trenèiansky kraj, okres Nové Mesto nad Váhom, Podolie
+GPS: N48°40'36'' E17°46'18''
+Miesto konania: Park miniatúr v Podolí
+Termín konania: 4.8.2016 - 7.8.2016
+Typ podujatia: iné podujatie, vıstava, podujatie pre deti
+Lokalizácia: ilinskı kraj, okres Tvrdošín, Zuberec
+GPS: N49°15'36'' E19°39'36''
+Miesto konania: Zuberec
+Termín konania: 5.8.2016 - 7.8.2016
+Typ podujatia: folklórne podujatie, TOP podujatie
+Lokalizácia: Košickı kraj, Košice
+GPS: N48°43'18'' E21°14'13''
+Miesto konania: Nová nemocnica
+Termín konania: 5.8.2016 - 7.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Kemarok, Ve¾ká Lomnica
+GPS: N49°8'15'' E20°20'17''
+Miesto konania: Golfovı rezort Black Stork, A PGA Golf Course Ve¾ká Lomnica
+Termín konania: 6.8.2016
+Typ podujatia: športové podujatie, podujatie pre deti
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Èastá
+GPS: N48°23'30'' E17°20'7''
+Miesto konania: Hrad Èervenı Kameò, Èastá
+Termín konania: 6.8.2016
+Typ podujatia: historické podujatie
+Lokalizácia: Prešovskı kraj, okres Poprad, diar
+GPS: N49°16'22'' E20°18'26''
+Termín konania: 6.8.2016
+Typ podujatia: športové podujatie
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Drietoma
+GPS: N48°54'10'' E17°57'2''
+Miesto konania: Drietoma
+Termín konania: 6.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'41'' E18°2'27''
+Miesto konania: Mierové námestie Trenèín
+Termín konania: 6.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°8'37'' E17°6'31''
+Miesto konania: Bratislava, centrum mesta
+Termín konania: 6.8.2016
+Typ podujatia: gastronomické podujatie
+Lokalizácia: Bratislavskı kraj, Bratislava
+GPS: N48°10'34'' E16°58'48''
+Termín konania: 7.8.2016
+Typ podujatia: historické podujatie
+Lokalizácia: Trnavskı kraj, okres Galanta, Galanta
+GPS: N48°11'22'' E17°43'36''
+Termín konania: 11.8.2016 - 13.8.2016
+Typ podujatia: gastronomické podujatie, iné podujatie, trh, jarmok
+Lokalizácia: Trnavskı kraj, okres Trnava, Trnava
+GPS: N48°22'15'' E17°34'60''
+Miesto konania: Trnava
+Termín konania: 11.8.2016 - 14.8.2016
+Typ podujatia: folklórne podujatie, TOP podujatie
+Lokalizácia: Trnavskı kraj, okres Piešany, Pieštany
+GPS: N48°36'41'' E17°49'56''
+Termín konania: 12.8.2016 - 13.8.2016
+Typ podujatia: hudobnı festival
+Lokalizácia: Bratislavskı kraj, okres Pezinok, Pezinok
+GPS: N48°16'58'' E17°16'13''
+Miesto konania: Pezinok
+Termín konania: 12.8.2016 - 14.8.2016
+Typ podujatia: iné podujatie
+Lokalizácia: Prešovskı kraj, okres Stará ¼ubovòa, Hniezdne
+GPS: N49°18'12'' E20°37'51''
+Miesto konania: Nestville Park, Hniezdne
+Termín konania: 13.8.2016
+Typ podujatia: TOP podujatie, hudobnı festival
+Lokalizácia: Bratislavskı kraj, okres Senec, Senec
+GPS: N48°13'18'' E17°24'3''
+Miesto konania: Senec, Nám. 1.mája a Lichnerova ulica
+Termín konania: 13.8.2016 - 14.8.2016
+Typ podujatia: folklórne podujatie, trh, jarmok
+Lokalizácia: Nitriansky kraj, okres Levice, Starı Tekov
+GPS: N48°14'42'' E18°32'9''
+Miesto konania: Starı Tekov
+Termín konania: 13.8.2016 - 14.8.2016
+Typ podujatia: folklórne podujatie, TOP podujatie
+Lokalizácia: Trenèiansky kraj, okres Trenèín, Trenèín
+GPS: N48°53'39'' E18°2'41''
+Miesto konania: Trenèiansky hrad
+Termín konania: 14.8.2016
+Typ podujatia: iné podujatie, podujatie pre deti, koncert
